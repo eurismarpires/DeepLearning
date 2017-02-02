@@ -1,5 +1,6 @@
 # DeepLearning
 #### 2017-02
+- Disciplina: Redes Neurais Profundas (Deep Learning)  [[Professor: Anderson da Silva Soares](http://www.inf.ufg.br/~anderson/deeplearning/)]
 - RECURRENT NEURAL NETWORKS TUTORIAL, PART 1 – INTRODUCTION TO RNNS [[Site](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)]
 #### 2017-01
 
