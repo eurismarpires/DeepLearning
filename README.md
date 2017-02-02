@@ -7,6 +7,8 @@
 
 - RECURRENT NEURAL NETWORKS TUTORIAL, PART 1 – INTRODUCTION TO RNNS (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)]
 
+[[deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)]
+
 #### 2017-01-23
 
 Projetos interessantes [[DeepSpeech](https://github.com/mozilla/DeepSpeech)] e [[speech-recognition](https://github.com/pannous/tensorflow-speech-recognition)]
