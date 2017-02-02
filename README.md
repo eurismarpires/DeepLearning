@@ -7,7 +7,7 @@
 
 - RECURRENT NEURAL NETWORKS TUTORIAL, PART 1 – INTRODUCTION TO RNNS (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)]
 
-[[deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)]
+- Deeplearning Paper Notes [[github](https://github.com/dennybritz/deeplearning-papernotes)]
 
 #### 2017-01-23
 
