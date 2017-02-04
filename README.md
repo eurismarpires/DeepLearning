@@ -20,3 +20,5 @@
 - conda install -c bokeh pyaudio=0.2.7
 - pip install grpcio
 - pip install webrtcvad
+- pip install numpy
+- pip install tensorflow
