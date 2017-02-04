@@ -17,5 +17,6 @@
 - Projetos interessantes [[DeepSpeech](https://github.com/mozilla/DeepSpeech)] e [[speech-recognition](https://github.com/pannous/tensorflow-speech-recognition)]
 
 #### Instalação de bibliotecas 
-- pyaudio: conda install -c bokeh pyaudio=0.2.7
-- grpc: pip install grpcio
+- conda install -c bokeh pyaudio=0.2.7
+- pip install grpcio
+- pip install webrtcvad
