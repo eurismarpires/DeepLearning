@@ -22,6 +22,7 @@
 - pip install webrtcvad
 - pip install numpy
 - pip install tensorflow
+
 #### fazer o jupyter enxergar o kernel do ambiente criado no conda, deve instalar dentro do ambiente 
   - source activate teste
   - conda install jupyter
