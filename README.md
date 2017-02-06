@@ -1,4 +1,8 @@
 # DeepLearning
+
+#### 2017-02-06
+- Comandos úteis de gerenciamento do docker https://www.eduardomedeiros.me/docker-comandos/
+
 #### 2017-02-03
 - https://github.com/kaleko/CourseraML
 - 6.S191: Introduction to Deep Learning http://introtodeeplearning.com/index.html
