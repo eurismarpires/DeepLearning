@@ -23,9 +23,11 @@
 - Projetos interessantes [[DeepSpeech](https://github.com/mozilla/DeepSpeech)] e [[speech-recognition](https://github.com/pannous/tensorflow-speech-recognition)] 
 
 #### Speeach Recognition
+
 - https://github.com/VikParuchuri/scribe
 - http://surguy.net/articles/speechrecognition.xml
 - https://thenerdshow.com/freespeech.html
+
 #### Instalação de bibliotecas 
 - conda install -c bokeh pyaudio=0.2.7
 - pip install grpcio
