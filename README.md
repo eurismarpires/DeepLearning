@@ -27,6 +27,15 @@
 - https://github.com/VikParuchuri/scribe
 - http://surguy.net/articles/speechrecognition.xml
 - https://thenerdshow.com/freespeech.html
+- http://cmusphinx.sourceforge.net/
+- https://jugad2.blogspot.com.br/2014/03/speech-recognition-with-python-speech.html
+- http://code.activestate.com/recipes/579115-recognizing-speech-speech-to-text-with-the-python-/
+- https://pypi.python.org/pypi/SpeechRecognition/
+- https://github.com/DelightRun/PyBaiduYuyin
+- https://github.com/Uberi/speech_recognition#readme
+- https://github.com/michaelgundlach/pyspeech
+- https://sourceforge.net/projects/kaldi/
+- http://memkite.com/blog/2015/02/11/deep-learning-for-speech-recognition/
 
 #### Instalação de bibliotecas 
 - conda install -c bokeh pyaudio=0.2.7
@@ -34,7 +43,6 @@
 - pip install webrtcvad
 - pip install numpy
 - pip install tensorflow
-
 #### fazer o jupyter enxergar o kernel do ambiente criado no conda, deve instalar dentro do ambiente 
   - source activate teste
   - conda install jupyter
