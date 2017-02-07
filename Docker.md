@@ -2,6 +2,9 @@
 
 ## Principais comandos
 
+
+### docker sem sudo https://coderwall.com/p/4zeaqq/run-docker-commands-without-sudo
+
 ### docker ps [args]
 Lista os containers em execução
 
