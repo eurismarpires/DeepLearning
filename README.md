@@ -1,5 +1,7 @@
 # DeepLearning
-
+#### 2017-02-07
+- Deep Learning for Natural Language Processing:  2016-2017 
+  https://github.com/oxford-cs-deepnlp-2017/lectures
 #### 2017-02-06
 - Comandos úteis de gerenciamento do docker https://www.eduardomedeiros.me/docker-comandos/
 
