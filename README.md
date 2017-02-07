@@ -1,6 +1,8 @@
 # DeepLearning
 #### 2017-02-07
 - Deep Learning for Natural Language Processing:  https://github.com/oxford-cs-deepnlp-2017/lectures 
+http://memkite.com/deep-learning-bibliography/#2014ZHuangMDongQMaoYZhan
+DEEPLEARNING.UNIVERSITY – AN ANNOTATED DEEP LEARNING BIBLIOGRAPHY http://memkite.com/deep-learning-bibliography/#music
   
 #### 2017-02-06
 - Comandos úteis de gerenciamento do docker https://www.eduardomedeiros.me/docker-comandos/
