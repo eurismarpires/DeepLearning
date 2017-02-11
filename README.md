@@ -23,6 +23,7 @@ http://memkite.com/deep-learning-bibliography/#2014ZHuangMDongQMaoYZhan
 #### 2017-01-23
 
 - Projetos interessantes [[DeepSpeech](https://github.com/mozilla/DeepSpeech)] e [[speech-recognition](https://github.com/pannous/tensorflow-speech-recognition)] 
+- Traffic signs classification with Deep Learning https://hackernoon.com/traffic-signs-classification-with-deep-learning-b0cb03e23efb#.omgdirjrz
 
 #### Speeach Recognition
 
