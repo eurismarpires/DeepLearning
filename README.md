@@ -3,6 +3,7 @@
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - How to implement a neural network http://peterroelants.github.io/
+
 #### 2017-02-15
 - deep_recommend_system https://github.com/tobegit3hub/deep_recommend_system
 
