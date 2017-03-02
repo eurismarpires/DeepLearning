@@ -18,11 +18,12 @@
 - http://www.linguateca.pt/corpora_info.html#cor3fal
 - http://www.c-oral-brasil.org/
 - http://rodrigob.github.io/are_we_there_yet/build/#datasets
-- http://cmusphinx.sourceforge.net/
+
 
 #### Speech Recognition
 - https://github.com/Uberi/speech_recognition
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
+- http://cmusphinx.sourceforge.net/
 
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
