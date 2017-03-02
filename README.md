@@ -3,6 +3,12 @@
 #### Livros: 
 - Deep Learning Methods and Applications Li Deng and Dong Yu https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
 
+#### Datasets
+- http://deeplearning.net/datasets/
+- http://pandawhale.com/post/44498/deep-learning-datasets
+- http://www.cs.jhu.edu/~mdredze/code.php
+- https://catalog.ldc.upenn.edu/LDC93S1
+
 #### Speech Recognition
 - https://github.com/Uberi/speech_recognition
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
