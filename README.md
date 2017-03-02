@@ -8,6 +8,11 @@
 - http://pandawhale.com/post/44498/deep-learning-datasets
 - http://www.cs.jhu.edu/~mdredze/code.php
 - https://catalog.ldc.upenn.edu/LDC93S1
+- https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.lvq7uy9v1
+- http://www.openslr.org/12/
+- https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/htmlview
+- http://meiobit.com/357253/microsoft-libera-banco-de-dados-inteligencia-artificial-com-100-mil-perguntas-repositorio-msmarco-cortana-bing/
+- http://www.voxforge.org/pt/downloads
 
 #### Speech Recognition
 - https://github.com/Uberi/speech_recognition
