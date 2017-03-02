@@ -24,6 +24,7 @@
 - https://github.com/Uberi/speech_recognition
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - http://cmusphinx.sourceforge.net/
+- An attempt at tracking states of the art(s) and recent results on speech recognition. https://github.com/cmusphinx/wer_are_we
 
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
