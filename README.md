@@ -13,6 +13,8 @@
 - https://docs.google.com/spreadsheets/d/1AQvZ7-Kg0lSZtG1wlgbIsrm90HaTZrJGQMz-uKRRlFw/htmlview
 - http://meiobit.com/357253/microsoft-libera-banco-de-dados-inteligencia-artificial-com-100-mil-perguntas-repositorio-msmarco-cortana-bing/
 - http://www.voxforge.org/pt/downloads
+- http://qt21.metashare.ilsp.gr/repository/download/49380cd244e711e5ba5300155d01190440bfbb69739143688b252b5f9cc2128e/
+- https://catalog.ldc.upenn.edu/LDC2008S04#
 
 #### Speech Recognition
 - https://github.com/Uberi/speech_recognition
