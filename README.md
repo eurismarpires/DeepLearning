@@ -29,7 +29,8 @@
 #### MFCC
 - Implementação em Python http://pydoc.net/Python/scikits.talkbox/0.2.3/scikits.talkbox.features.mfcc/
 - Biblioteca https://github.com/jameslyons/python_speech_features
-
+#### Processamento de Audio
+- http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
