@@ -26,6 +26,10 @@
 - http://cmusphinx.sourceforge.net/
 - An attempt at tracking states of the art(s) and recent results on speech recognition. https://github.com/cmusphinx/wer_are_we
 
+#### MFCC
+- Implementação em Python http://pydoc.net/Python/scikits.talkbox/0.2.3/scikits.talkbox.features.mfcc/
+- Biblioteca https://github.com/jameslyons/python_speech_features
+
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
