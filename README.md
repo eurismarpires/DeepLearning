@@ -29,6 +29,8 @@
 #### MFCC
 - Implementação em Python http://pydoc.net/Python/scikits.talkbox/0.2.3/scikits.talkbox.features.mfcc/
 - Biblioteca https://github.com/jameslyons/python_speech_features
+- Mel Frequency Cepstral Coefficients (MFCCs) http://musicinformationretrieval.com/mfcc.html
+
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
 #### 2017-02-17
