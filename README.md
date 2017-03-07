@@ -26,6 +26,8 @@
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
 - http://cmusphinx.sourceforge.net/
 - An attempt at tracking states of the art(s) and recent results on speech recognition. https://github.com/cmusphinx/wer_are_we
+- Towards End-to-End Speech Recognition
+with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves14.pdf
 
 #### MFCC
 - Implementação em Python http://pydoc.net/Python/scikits.talkbox/0.2.3/scikits.talkbox.features.mfcc/
