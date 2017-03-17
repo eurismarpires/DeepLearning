@@ -2,7 +2,7 @@
 #### Artigos Interessantes
 - Music transcription modelling and composition using deep learnin https://arxiv.org/abs/1604.08723
 - Text generation using deep recurrent neural networks http://deeplearningathome.com/2016/10/Text-generation-using-deep-recurrent-neural-networks.html
--Composing Music With Recurrent Neural Networks http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+- Composing Music With Recurrent Neural Networks http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
 
 
 #### Livros: 
