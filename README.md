@@ -39,6 +39,10 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Biblioteca https://github.com/jameslyons/python_speech_features
 - Mel Frequency Cepstral Coefficients (MFCCs) http://musicinformationretrieval.com/mfcc.html
 
+#### LSTM
+- Um guia de noob para implementar RNN-LSTM usando Tensorflow http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
+- A Eficácia Irracional das Redes Neurais Recorrentes http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
 #### 2017-02-17
