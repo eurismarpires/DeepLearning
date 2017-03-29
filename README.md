@@ -46,6 +46,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - https://maraoz.com/2016/02/02/abc-rnn/
 - http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf
 - dataset http://abc.sourceforge.net/NMD/
+- https://cs.adelaide.edu.au/~markus/pub/2008evomusart.pdf
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
