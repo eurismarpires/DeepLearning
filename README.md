@@ -50,6 +50,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/
 - https://github.com/MattVitelli/GRUV
 - http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
+- Polyphonic Music Generation Using Tied Parallel Networksh ttps://www.cs.hmc.edu/~ddjohnson/tied-parallel/
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
