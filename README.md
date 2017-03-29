@@ -48,6 +48,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - dataset http://abc.sourceforge.net/NMD/
 - https://cs.adelaide.edu.au/~markus/pub/2008evomusart.pdf
 - https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/
+- https://github.com/MattVitelli/GRUV
 
 
 #### Processamento de Audio
