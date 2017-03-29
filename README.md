@@ -49,7 +49,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - https://cs.adelaide.edu.au/~markus/pub/2008evomusart.pdf
 - https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4/
 - https://github.com/MattVitelli/GRUV
-
+- http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
