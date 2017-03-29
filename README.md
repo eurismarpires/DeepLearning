@@ -42,6 +42,9 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 #### LSTM
 - Um guia de noob para implementar RNN-LSTM usando Tensorflow http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
 - A Eficácia Irracional das Redes Neurais Recorrentes http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+#### LSTM and Music Composition
+- https://maraoz.com/2016/02/02/abc-rnn/
+- http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
