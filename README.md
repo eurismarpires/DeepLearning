@@ -51,6 +51,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - https://github.com/MattVitelli/GRUV
 - http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
 - Polyphonic Music Generation Using Tied Parallel Networksh ttps://www.cs.hmc.edu/~ddjohnson/tied-parallel/
+- conversor abc para MIDI http://colinhume.com/music.aspx
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
