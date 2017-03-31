@@ -3,7 +3,7 @@
 - Music transcription modelling and composition using deep learnin https://arxiv.org/abs/1604.08723
 - Text generation using deep recurrent neural networks http://deeplearningathome.com/2016/10/Text-generation-using-deep-recurrent-neural-networks.html
 - Composing Music With Recurrent Neural Networks http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
-
+- A Step by Step Backpropagation Example https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
 #### Livros: 
 - Deep Learning Methods and Applications Li Deng and Dong Yu https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
