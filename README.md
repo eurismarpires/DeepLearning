@@ -5,6 +5,8 @@
 - Composing Music With Recurrent Neural Networks http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
 - A Step by Step Backpropagation Example https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 - Not another MNIST tutorial with TensorFlow https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow
+- Open Source Machine Learning Degree http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_content=buffer7b7c4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
 
 #### Livros: 
 - Deep Learning Methods and Applications Li Deng and Dong Yu https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
@@ -43,6 +45,8 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 #### LSTM
 - Um guia de noob para implementar RNN-LSTM usando Tensorflow http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
 - A Eficácia Irracional das Redes Neurais Recorrentes http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Introduction to Recurrent Networks in TensorFlow http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html
+
 #### LSTM and Music Composition
 - https://maraoz.com/2016/02/02/abc-rnn/
 - http://cslab1.bc.edu/~csacademics/pdf/16Mikami.pdf
