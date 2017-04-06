@@ -7,6 +7,8 @@
 - Not another MNIST tutorial with TensorFlow https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow
 - Open Source Machine Learning Degree http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_content=buffer7b7c4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
+#### TensorFlow
+- 10 minutes Practical TensorFlow Tutorial for quick learners http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
 
 #### Livros: 
 - Deep Learning Methods and Applications Li Deng and Dong Yu https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
