@@ -60,6 +60,12 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
 - Polyphonic Music Generation Using Tied Parallel Networksh ttps://www.cs.hmc.edu/~ddjohnson/tied-parallel/
 - conversor abc para MIDI http://colinhume.com/music.aspx
+- Free XML Music View https://www.soundslice.com/musicxml-viewer/
+- Biaxial Recurrent Neural Network for Music Composition https://github.com/hexahedria/biaxial-rnn-music-composition
+- DataSet MusicXML https://github.com/grant/algo-rhythm http://openmusicscore.org/
+- Algo Rhythm: Music Composition using Neural Networks https://medium.com/@granttimmerman/algo-rhythm-music-composition-using-neural-networks-f89897ff2df7
+
+
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
