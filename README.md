@@ -7,6 +7,7 @@
 - Not another MNIST tutorial with TensorFlow https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow
 - Open Source Machine Learning Degree http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_content=buffer7b7c4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 - Top 10 IPython Notebook Tutorials for Data Science and Machine Learning http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
+- A Neural Network in 11 lines of Python (Part 1) http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 #### TensorFlow
 - 10 minutes Practical TensorFlow Tutorial for quick learners http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
