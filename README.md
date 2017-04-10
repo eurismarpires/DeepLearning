@@ -31,6 +31,7 @@
 - http://www.c-oral-brasil.org/
 - http://rodrigob.github.io/are_we_there_yet/build/#datasets
 - MusicNet http://homes.cs.washington.edu/~thickstn/musicnet.html
+- Classical Guitar MIDI http://www.classicalguitarmidi.com/index.html
 
 
 #### Speech Recognition
