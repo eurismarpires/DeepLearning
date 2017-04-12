@@ -71,6 +71,8 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 
 
 
+
+
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
 #### 2017-02-17
@@ -132,7 +134,8 @@ http://memkite.com/deep-learning-bibliography/#2014ZHuangMDongQMaoYZhan
 - pip install webrtcvad
 - pip install numpy
 - pip install tensorflow
-- music21 sudo pip install https://github.com/cuthbertLab/music21/releases/download/v3.1.0/music21-3.1.0.tar.gz
+- music21 $ sudo pip install https://github.com/cuthbertLab/music21/releases/download/v3.1.0/music21-3.1.0.tar.gz
+- PYGAME $ sudo pip install pygame --user
 #### fazer o jupyter enxergar o kernel do ambiente criado no conda, deve instalar dentro do ambiente 
   - source activate teste
   - conda install jupyter
