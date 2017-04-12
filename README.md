@@ -68,6 +68,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Algo Rhythm: Music Composition using Neural Networks https://medium.com/@granttimmerman/algo-rhythm-music-composition-using-neural-networks-f89897ff2df7
 - Musical TensorFlow, Part 1 - How to build an RBM in TensorFlow for making music http://danshiebler.com/2016-08-10-musical-tensorflow-part-one-the-rbm/
 - Music RNN RBM = https://github.com/dshieble/Music_RNN_RBM
+- Music Generation with Deep Learning https://arxiv.org/abs/1612.04928
 
 
 
