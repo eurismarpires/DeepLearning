@@ -82,6 +82,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 
 #### Probabilidade
 - Teorema de Bayes http://www.monografias.com/trabajos89/probabilidad-total-y-teorema-bayes/probabilidad-total-y-teorema-bayes.shtml
+- 5. Naive Bayes https://www.vooo.pro/insights/fundamentos-dos-algoritmos-de-machine-learning-com-codigo-python-e-r/
 
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
