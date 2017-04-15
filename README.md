@@ -79,6 +79,10 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
+
+#### Probabilidade
+- Teorema de Bayes http://www.monografias.com/trabajos89/probabilidad-total-y-teorema-bayes/probabilidad-total-y-teorema-bayes.shtml
+
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
