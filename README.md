@@ -80,6 +80,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 
 #### Processamento de Audio
 - http://www.ifs.tuwien.ac.at/~schindler/lectures/MIR_Feature_Extraction.html
+- midi note numbers http://www.electronics.dit.ie/staff/tscarff/Music_technology/midi/midi_note_numbers_for_octaves.htm
 
 #### Probabilidade
 - Teorema de Bayes http://www.monografias.com/trabajos89/probabilidad-total-y-teorema-bayes/probabilidad-total-y-teorema-bayes.shtml
