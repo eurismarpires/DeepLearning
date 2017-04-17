@@ -70,7 +70,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Music RNN RBM = https://github.com/dshieble/Music_RNN_RBM
 - Metis Final Project: Music Composition with LSTMs http://blog.naoya.io/metis-final-project-music-composition-with-lstms/
 - DeepHear - Composing and Harmonizing Music with Neural http://www.gitxiv.com/posts/kZz9PCRcktdYSrWnp/deephear-composing-and-harmonizing-music-with-neural
-
+- deep learning for music https://amundtveit.com/2016/11/22/deep-learning-for-music/
 
 
 #### Papers Music Generation 
