@@ -72,10 +72,12 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - DeepHear - Composing and Harmonizing Music with Neural http://www.gitxiv.com/posts/kZz9PCRcktdYSrWnp/deephear-composing-and-harmonizing-music-with-neural
 
 
+
 #### Papers Music Generation 
 - Music Generation with Deep Learning https://arxiv.org/abs/1612.04928
 - Deep Learning for Music https://arxiv.org/pdf/:1606.04930v1.pdf?
 - WAVENET: A GENERATIVE MODEL FOR RAW AUDIO https://arxiv.org/pdf/:1609.03499v2.pdf?
+- using machine learning to generate music http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music
 
 
 
