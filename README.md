@@ -53,6 +53,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - A Eficácia Irracional das Redes Neurais Recorrentes http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Introduction to Recurrent Networks in TensorFlow http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html
 - Backpropogating an LSTM: A Numerical Example (O melhor exemplo que já encontrei) https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9
+- Understanding LSTM and its diagrams https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
 
 
 #### LSTM and Music Composition
