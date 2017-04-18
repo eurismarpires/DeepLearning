@@ -51,6 +51,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Um guia de noob para implementar RNN-LSTM usando Tensorflow http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
 - A Eficácia Irracional das Redes Neurais Recorrentes http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Introduction to Recurrent Networks in TensorFlow http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html
+- Backpropogating an LSTM: A Numerical Example (O melhor exemplo que já encontrei) https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9
 
 #### LSTM and Music Composition
 - https://maraoz.com/2016/02/02/abc-rnn/
