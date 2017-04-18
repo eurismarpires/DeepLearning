@@ -54,6 +54,10 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Introduction to Recurrent Networks in TensorFlow http://www.kdnuggets.com/2016/05/intro-recurrent-networks-tensorflow.html
 - Backpropogating an LSTM: A Numerical Example (O melhor exemplo que já encontrei) https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9
 - Understanding LSTM and its diagrams https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
+- How to build a Recurrent Neural Network in TensorFlow (1/7) https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767
+- Understanding LSTM and its diagrams https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
+- https://medium.com/tag/lstm
+- A noob’s guide to implementing RNN-LSTM using Tensorflow https://medium.com/@monikkinom/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow-1907a5bbb1fa
 
 
 #### LSTM and Music Composition
