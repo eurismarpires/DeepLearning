@@ -10,6 +10,7 @@
 - A Neural Network in 11 lines of Python (Part 1) http://iamtrask.github.io/2015/07/12/basic-python-network/
 #### Backprogation
 - A Neural Network in Python, Part 1: sigmoid function, gradient descent & backpropagation http://python3.codes/neural-network-python-part-1-sigmoid-function-gradient-descent-backpropagation/
+- Deep Neural Network from scratch https://matrices.io/deep-neural-network-from-scratch/
 #### TensorFlow
 - 10 minutes Practical TensorFlow Tutorial for quick learners http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
 
