@@ -59,6 +59,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Understanding LSTM and its diagrams https://medium.com/@shiyan/understanding-lstm-and-its-diagrams-37e2f46f1714
 - https://medium.com/tag/lstm
 - A noob’s guide to implementing RNN-LSTM using Tensorflow https://medium.com/@monikkinom/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow-1907a5bbb1fa
+- Char-rnn http://blog.adammenges.com/char-rnn/
 
 
 #### LSTM and Music Composition
