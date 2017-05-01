@@ -8,6 +8,8 @@
 - Open Source Machine Learning Degree http://www.kdnuggets.com/2016/06/open-source-machine-learning-degree.html?utm_content=buffer7b7c4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 - Top 10 IPython Notebook Tutorials for Data Science and Machine Learning http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
 - A Neural Network in 11 lines of Python (Part 1) http://iamtrask.github.io/2015/07/12/basic-python-network/
+- Deep Learning: Language identification using Keras & TensorFlow http://machinelearningexp.com/
+
 #### Backprogation
 - A Neural Network in Python, Part 1: sigmoid function, gradient descent & backpropagation http://python3.codes/neural-network-python-part-1-sigmoid-function-gradient-descent-backpropagation/
 - Deep Neural Network from scratch https://matrices.io/deep-neural-network-from-scratch/
