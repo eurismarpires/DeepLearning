@@ -9,10 +9,14 @@
 - Top 10 IPython Notebook Tutorials for Data Science and Machine Learning http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
 - A Neural Network in 11 lines of Python (Part 1) http://iamtrask.github.io/2015/07/12/basic-python-network/
 - Deep Learning: Language identification using Keras & TensorFlow http://machinelearningexp.com/
+- Teaching Deep Learning http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
+
 
 #### Backprogation
 - A Neural Network in Python, Part 1: sigmoid function, gradient descent & backpropagation http://python3.codes/neural-network-python-part-1-sigmoid-function-gradient-descent-backpropagation/
 - Deep Neural Network from scratch https://matrices.io/deep-neural-network-from-scratch/
+- Yes you should understand backprop https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+
 #### TensorFlow
 - 10 minutes Practical TensorFlow Tutorial for quick learners http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
 
@@ -62,6 +66,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - https://medium.com/tag/lstm
 - A noob’s guide to implementing RNN-LSTM using Tensorflow https://medium.com/@monikkinom/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow-1907a5bbb1fa
 - Char-rnn http://blog.adammenges.com/char-rnn/
+- Rohan & Lenny #3: Recurrent Neural Networks & LSTMs https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
 
 
 #### LSTM and Music Composition
@@ -105,6 +110,9 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 #### Probabilidade
 - Teorema de Bayes http://www.monografias.com/trabajos89/probabilidad-total-y-teorema-bayes/probabilidad-total-y-teorema-bayes.shtml
 - 5. Naive Bayes https://www.vooo.pro/insights/fundamentos-dos-algoritmos-de-machine-learning-com-codigo-python-e-r/
+
+#### Algebra Linear
+- Linear algebra cheat sheet for deep learning https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c
 
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
