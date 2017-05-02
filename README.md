@@ -54,7 +54,8 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Implementação em Python http://pydoc.net/Python/scikits.talkbox/0.2.3/scikits.talkbox.features.mfcc/
 - Biblioteca https://github.com/jameslyons/python_speech_features
 - Mel Frequency Cepstral Coefficients (MFCCs) http://musicinformationretrieval.com/mfcc.html
-
+#### Autoencoders
+- Building Autoencoders in Keras https://blog.keras.io/building-autoencoders-in-keras.html
 #### LSTM
 - Um guia de noob para implementar RNN-LSTM usando Tensorflow http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
 - A Eficácia Irracional das Redes Neurais Recorrentes http://karpathy.github.io/2015/05/21/rnn-effectiveness/
