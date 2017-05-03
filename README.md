@@ -93,6 +93,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Generating Multi-track Music with Deep Learning https://alexprevoteau.com/2016/11/23/generating-multi-track-music-with-deep-learning/
 - Generating Long-Term Structure in Songs and Stories https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
 - Modelling Symbolic Music: Beyond the Piano Roll https://arxiv.org/abs/1606.01368
+- Polyphonic Music Generation Using Tied Parallel Networks https://www.cs.hmc.edu/~ddjohnson/tied-parallel/
 
 
 #### Papers Music Generation 
