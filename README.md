@@ -94,6 +94,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Generating Long-Term Structure in Songs and Stories https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
 - Modelling Symbolic Music: Beyond the Piano Roll https://arxiv.org/abs/1606.01368
 - Polyphonic Music Generation Using Tied Parallel Networks https://www.cs.hmc.edu/~ddjohnson/tied-parallel/
+- RNN Music Composer (slide) http://imatv.me/classes/Psych186BClassSlidesRNNMusic.pdf
 
 
 #### Papers Music Generation 
