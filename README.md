@@ -97,6 +97,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - RNN Music Composer (slide) http://imatv.me/classes/Psych186BClassSlidesRNNMusic.pdf
 #### CNN
 - Treinando sua primeira CNN https://gurus.pyimagesearch.com/lesson-sample-training-your-first-cnn/
+- Convolutional Neural Networks Tutorial in TensorFlow http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
 
 #### Papers Music Generation 
 - Music Generation with Deep Learning https://arxiv.org/abs/1612.04928
