@@ -18,6 +18,11 @@
 - Deep Neural Network from scratch https://matrices.io/deep-neural-network-from-scratch/
 - Yes you should understand backprop https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 
+#### Data Augmentation
+- What you need to know about data augmentation for machine learning https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/
+- Audio Augmentation for Speech Recognition http://speak.clsp.jhu.edu/uploads/publications/papers/1050_pdf.pdf
+- Keras ImageDataGenerator https://keras.io/preprocessing/image/
+
 #### TensorFlow
 - 10 minutes Practical TensorFlow Tutorial for quick learners http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
 
