@@ -110,6 +110,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Deep Learning for Music https://arxiv.org/pdf/:1606.04930v1.pdf?
 - WAVENET: A GENERATIVE MODEL FOR RAW AUDIO https://arxiv.org/pdf/:1609.03499v2.pdf?
 - using machine learning to generate music http://www.datasciencecentral.com/profiles/blogs/using-machine-learning-to-generate-music
+- MidiNet Demo - learning to generate music from MIDI tabs. https://richardyang40148.github.io/TheBlog/index.html - https://arxiv.org/pdf/1703.10847v1.pdf
 
 
 
