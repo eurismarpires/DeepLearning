@@ -11,6 +11,7 @@
 - A Neural Network in 11 lines of Python (Part 1) http://iamtrask.github.io/2015/07/12/basic-python-network/
 - Deep Learning: Language identification using Keras & TensorFlow http://machinelearningexp.com/
 - Teaching Deep Learning http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
+- Data Science & Tech Projects http://francescopochetti.com/portfoliodata-science-machine-learning/
 
 
 #### Backprogation
