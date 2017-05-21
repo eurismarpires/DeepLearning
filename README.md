@@ -102,9 +102,12 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Modelling Symbolic Music: Beyond the Piano Roll https://arxiv.org/abs/1606.01368
 - Polyphonic Music Generation Using Tied Parallel Networks https://www.cs.hmc.edu/~ddjohnson/tied-parallel/
 - RNN Music Composer (slide) http://imatv.me/classes/Psych186BClassSlidesRNNMusic.pdf
+- LSTM Forward and Backward Pass - http://arunmallya.github.io/writeups/nn/lstm/index.html#/  http://arunmallya.github.io/
+
 #### CNN
 - Treinando sua primeira CNN https://gurus.pyimagesearch.com/lesson-sample-training-your-first-cnn/
 - Convolutional Neural Networks Tutorial in TensorFlow http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
+- http://arunmallya.github.io/
 
 #### Papers Music Generation 
 - Music Generation with Deep Learning https://arxiv.org/abs/1612.04928
