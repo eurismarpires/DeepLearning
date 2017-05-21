@@ -75,6 +75,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - A noob’s guide to implementing RNN-LSTM using Tensorflow https://medium.com/@monikkinom/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow-1907a5bbb1fa
 - Char-rnn http://blog.adammenges.com/char-rnn/
 - Rohan & Lenny #3: Recurrent Neural Networks & LSTMs https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
+- LSTM Forward and Backward Pass - http://arunmallya.github.io/writeups/nn/lstm/index.html#/  http://arunmallya.github.io/
 
 
 #### LSTM and Music Composition
@@ -102,7 +103,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Modelling Symbolic Music: Beyond the Piano Roll https://arxiv.org/abs/1606.01368
 - Polyphonic Music Generation Using Tied Parallel Networks https://www.cs.hmc.edu/~ddjohnson/tied-parallel/
 - RNN Music Composer (slide) http://imatv.me/classes/Psych186BClassSlidesRNNMusic.pdf
-- LSTM Forward and Backward Pass - http://arunmallya.github.io/writeups/nn/lstm/index.html#/  http://arunmallya.github.io/
+
 
 #### CNN
 - Treinando sua primeira CNN https://gurus.pyimagesearch.com/lesson-sample-training-your-first-cnn/
