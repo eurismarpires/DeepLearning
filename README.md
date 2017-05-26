@@ -47,6 +47,7 @@
 - http://rodrigob.github.io/are_we_there_yet/build/#datasets
 - MusicNet http://homes.cs.washington.edu/~thickstn/musicnet.html
 - Classical Guitar MIDI http://www.classicalguitarmidi.com/index.html
+- 11 bases de dados gratuitas para mineração, estudos e testes http://www.bigdatabusiness.com.br/6-bases-de-dados-gratuitas-para-mineracao-estudos-e-testes/
 
 
 #### Speech Recognition
