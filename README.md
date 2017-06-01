@@ -19,6 +19,7 @@
 - Deep Neural Network from scratch https://matrices.io/deep-neural-network-from-scratch/
 - Yes you should understand backprop https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 
+
 #### Data Augmentation
 - What you need to know about data augmentation for machine learning https://cartesianfaith.com/2016/10/06/what-you-need-to-know-about-data-augmentation-for-machine-learning/
 - Audio Augmentation for Speech Recognition http://speak.clsp.jhu.edu/uploads/publications/papers/1050_pdf.pdf
@@ -78,6 +79,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Rohan & Lenny #3: Recurrent Neural Networks & LSTMs https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
 - LSTM Forward and Backward Pass - http://arunmallya.github.io/writeups/nn/lstm/index.html#/  http://arunmallya.github.io/
 - RECURRENT NEURAL NETWORKS (RNN) – PART 1: BASIC RNN / CHAR-RNN https://theneuralperspective.com/2016/10/04/05-recurrent-neural-networks-rnn-part-1-basic-rnn-char-rnn/
+Simple LSTM http://nicodjimenez.github.io/2014/08/08/lstm.html
 
 
 #### LSTM and Music Composition
