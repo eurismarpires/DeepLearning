@@ -77,6 +77,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Char-rnn http://blog.adammenges.com/char-rnn/
 - Rohan & Lenny #3: Recurrent Neural Networks & LSTMs https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
 - LSTM Forward and Backward Pass - http://arunmallya.github.io/writeups/nn/lstm/index.html#/  http://arunmallya.github.io/
+- RECURRENT NEURAL NETWORKS (RNN) – PART 1: BASIC RNN / CHAR-RNN https://theneuralperspective.com/2016/10/04/05-recurrent-neural-networks-rnn-part-1-basic-rnn-char-rnn/
 
 
 #### LSTM and Music Composition
