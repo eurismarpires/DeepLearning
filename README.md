@@ -81,6 +81,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - RECURRENT NEURAL NETWORKS (RNN) – PART 1: BASIC RNN / CHAR-RNN https://theneuralperspective.com/2016/10/04/05-recurrent-neural-networks-rnn-part-1-basic-rnn-char-rnn/
 - Simple LSTM - http://nicodjimenez.github.io/2014/08/08/lstm.html
 - Exploring LSTMs - http://blog.echen.me/2017/05/30/exploring-lstms/
+- Vários materiais de LSTM - http://www.cs.toronto.edu/~graves/
 
 
 #### LSTM and Music Composition
