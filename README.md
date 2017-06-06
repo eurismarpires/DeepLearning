@@ -12,6 +12,7 @@
 - Deep Learning: Language identification using Keras & TensorFlow http://machinelearningexp.com/
 - Teaching Deep Learning http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
 - Data Science & Tech Projects http://francescopochetti.com/portfoliodata-science-machine-learning/
+- Técnicas de Aprendizado de Máquina https://matheusfacure.github.io/tutorials/
 
 
 #### Backprogation
