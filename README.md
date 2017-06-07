@@ -13,6 +13,7 @@
 - Teaching Deep Learning http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
 - Data Science & Tech Projects http://francescopochetti.com/portfoliodata-science-machine-learning/
 - Técnicas de Aprendizado de Máquina https://matheusfacure.github.io/tutorials/
+- Gradiente Local http://www.professores.uff.br/jmarcos/images/stories/Disciplinas/RedesNeurais/Perceptrons2.pdf
 
 
 #### Backprogation
