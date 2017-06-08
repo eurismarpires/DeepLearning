@@ -111,6 +111,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Modelling Symbolic Music: Beyond the Piano Roll https://arxiv.org/abs/1606.01368
 - Polyphonic Music Generation Using Tied Parallel Networks https://www.cs.hmc.edu/~ddjohnson/tied-parallel/
 - RNN Music Composer (slide) http://imatv.me/classes/Psych186BClassSlidesRNNMusic.pdf
+- Tradução Neural de Estilo Musical http://imanmalik.com/cs/2017/06/05/neural-style.html
 
 
 #### CNN
