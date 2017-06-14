@@ -115,6 +115,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Geração Automática de Acompanhamento com Seq2Seq http://qihqi.github.io/machine/learning/music-generation-using-rnn/
 - Deep Remix http://deepremix.com/
 - Music Language Modeling with Recurrent Neural Networks http://yoavz.com/music_rnn/
+- SCHUMANN: REDES NEURAIS RECORRENTES QUE COMPÕEM MÚSICA http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/
 
 
 #### CNN
