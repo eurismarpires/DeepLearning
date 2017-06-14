@@ -117,6 +117,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Music Language Modeling with Recurrent Neural Networks http://yoavz.com/music_rnn/
 - SCHUMANN: REDES NEURAIS RECORRENTES QUE COMPÕEM MÚSICA http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/
 - Aprender a compor música de arquivos MIDI usando uma rede neural LSTM em deeplearning4j https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent/character/melodl4j
+- An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists https://devpost.com/software/orchestrai
 
 
 
