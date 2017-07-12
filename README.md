@@ -119,6 +119,10 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Aprender a compor música de arquivos MIDI usando uma rede neural LSTM em deeplearning4j https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent/character/melodl4j
 - An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists https://devpost.com/software/orchestrai
 
+#### GAN
+- Course:CPSC522/Generative Adversarial Networks - http://wiki.ubc.ca/Course:CPSC522/Generative_Adversarial_Networks#Some_sampling_results
+- CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms https://arxiv.org/abs/1706.07068
+- CAN (Creative Adversarial Network) - Explained - http://www.kdnuggets.com/2017/07/creative-adversarial-network.html
 
 
 #### CNN
