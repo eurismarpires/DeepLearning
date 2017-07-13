@@ -123,6 +123,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Course:CPSC522/Generative Adversarial Networks - http://wiki.ubc.ca/Course:CPSC522/Generative_Adversarial_Networks#Some_sampling_results
 - CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms https://arxiv.org/abs/1706.07068
 - CAN (Creative Adversarial Network) - Explained - http://www.kdnuggets.com/2017/07/creative-adversarial-network.html
+- GAN by Example using Keras on Tensorflow Backend https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
 
 
 #### CNN
