@@ -84,6 +84,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Simple LSTM - http://nicodjimenez.github.io/2014/08/08/lstm.html
 - Exploring LSTMs - http://blog.echen.me/2017/05/30/exploring-lstms/
 - Vários materiais de LSTM - http://www.cs.toronto.edu/~graves/
+- https://stackoverflow.com/questions/43034960/many-to-one-and-many-to-many-lstm-examples-in-keras
 
 
 #### LSTM and Music Composition
@@ -118,6 +119,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - SCHUMANN: REDES NEURAIS RECORRENTES QUE COMPÕEM MÚSICA http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/
 - Aprender a compor música de arquivos MIDI usando uma rede neural LSTM em deeplearning4j https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/main/java/org/deeplearning4j/examples/recurrent/character/melodl4j
 - An improvisational AI that unleashes the creative power of an entire orchestra to music producers and artists https://devpost.com/software/orchestrai
+- Many to one and many to many LSTM examples in Keras https://stackoverflow.com/questions/43034960/many-to-one-and-many-to-many-lstm-examples-in-keras
 
 #### GAN
 - Course:CPSC522/Generative Adversarial Networks - http://wiki.ubc.ca/Course:CPSC522/Generative_Adversarial_Networks#Some_sampling_results
