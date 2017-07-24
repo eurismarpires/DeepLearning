@@ -155,6 +155,8 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 #### Algebra Linear
 - Linear algebra cheat sheet for deep learning https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c
 
+#### Theano
+- Theano Tutorial - http://www.marekrei.com/blog/theano-tutorial/
 #### 2017-02-17
 - TensorFlow-Tutorials https://github.com/nlintz/TensorFlow-Tutorials
 - Awesome Recurrent Neural Networks https://github.com/kjw0612/awesome-rnn
