@@ -16,6 +16,9 @@
 * Artigo http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
 * Leituras relacionadas:[RNN Music Composer](http://imatv.me/classes/Psych186BReportRNNMusic.pdf), [Creativity in Machine Learning](https://arxiv.org/pdf/1601.03642.pdf), [Composing Classical Music with Recurrent Neural Network](https://deepdarklearning.wordpress.com/2016/12/15/composing-classical-music-with-recurrent-neural-network/)
 
+## Links Importantes
+* https://libraries.io/
+
 ## Comandos Úteis
 
 #### Instalar Magenta
