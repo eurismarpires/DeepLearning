@@ -19,3 +19,5 @@ Instalado o ambiente para o projeto magenta:
 * Código https://github.com/hexahedria/biaxial-rnn-music-composition
 * Blog http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
 * Artigo http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
+* Leituras relacionadas:[RNN Music Composer](http://imatv.me/classes/Psych186BReportRNNMusic.pdf), [Creativity in Machine Learning](https://arxiv.org/pdf/1601.03642.pdf), [Creativity in Machine Learning](https://arxiv.org/pdf/1601.03642.pdf)
+   
