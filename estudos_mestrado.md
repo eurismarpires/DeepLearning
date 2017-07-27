@@ -13,8 +13,9 @@ Instalado o ambiente para o projeto magenta:
 * blog https://medium.com/towards-data-science/can-a-deep-neural-network-compose-music-f89b6ba4978d
 * poster https://www.justinsvegliato.com/pdf/deep-jammer-poster.pdf
 * artigo https://www.justinsvegliato.com/pdf/deep-jammer-report.pdf
-* código
+* código https://github.com/justinsvegliato/deep-jammer
 
 #### Biaxial Recurrent Neural Network for Music Composition
 * Código https://github.com/hexahedria/biaxial-rnn-music-composition
 * Blog http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+* Artigo http://www.hexahedria.com/files/2017generatingpolyphonic.pdf
