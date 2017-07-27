@@ -18,6 +18,7 @@
 
 ## Links Importantes
 * https://libraries.io/
+* https://magenta.tensorflow.org/2016/12/16/nips-demo/
 
 ## Comandos Úteis
 
