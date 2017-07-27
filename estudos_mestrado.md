@@ -18,8 +18,6 @@
 
 ## Comandos Úteis
 
-Instalado o ambiente para o projeto magenta:
-
 #### Instalar Magenta
     $ sudo apt-get install libasound2
     $ sudo apt-get install libasound2-dev
