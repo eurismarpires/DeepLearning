@@ -1,4 +1,6 @@
-### 26/07/2017
+## 27/07/2017
+* Leitura do projeto final Deep-Rock https://cs224d.stanford.edu/reports/Ilan.pdf
+## 26/07/2017
 * Teste do Melody_RNN do projeto magenta: https://github.com/tensorflow/magenta/blob/master/magenta/models/melody_rnn/README.md
 * Leitura https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
 Instalado o ambiente para o projeto magenta:
