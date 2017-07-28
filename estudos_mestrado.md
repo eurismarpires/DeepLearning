@@ -49,4 +49,6 @@
     $ conda-env remove -n deep-improvisation
     $ source activate deep-improvisation
 
-  
+#### Coisas para aprender
+ * Maxima verossimilhança
+ * GAN
