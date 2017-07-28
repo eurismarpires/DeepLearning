@@ -1,3 +1,5 @@
+## 28/07/2017
+* Leitura do artigo (Deep Learning for Music)[https://arxiv.org/pdf/1606.04930.pdf]
 ## 27/07/2017
 * Leitura do projeto final Deep-Rock https://cs224d.stanford.edu/reports/Ilan.pdf
 ## 26/07/2017
