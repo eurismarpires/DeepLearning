@@ -1,5 +1,6 @@
 ## 28/07/2017
-* Leitura do artigo (Deep Learning for Music)[https://arxiv.org/pdf/1606.04930.pdf]
+* Leitura do artigo [Deep Learning for Music](https://arxiv.org/pdf/1606.04930.pdf)
+* Estudo de [função de veroimilhança](http://www.leg.ufpr.br/~paulojus/embrapa/Rembrapa/Rembrapase16.html) [Código](https://github.com/eurismarpires/DeepLearning/blob/master/fun%C3%A7%C3%A3o%2Bde%2Bverossimilhan%C3%A7a.ipynb)
 ## 27/07/2017
 * Leitura do projeto final Deep-Rock https://cs224d.stanford.edu/reports/Ilan.pdf
 ## 26/07/2017
