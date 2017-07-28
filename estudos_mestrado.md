@@ -4,6 +4,7 @@
 * Leitura do projeto final Deep-Rock https://cs224d.stanford.edu/reports/Ilan.pdf
 ## 26/07/2017
 * Teste do Melody_RNN do projeto magenta: https://github.com/tensorflow/magenta/blob/master/magenta/models/melody_rnn/README.md Para isso foi criado as variáveis de ambiente abaixo e depois seguiu-se o tutorial.
+####
         $ export BUNDLE_PATH=/magenta-models/basic_rnn.mag
         $ export CONFIG=basic_rnn
  
