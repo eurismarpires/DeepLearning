@@ -18,7 +18,7 @@
         --primer_melody="[60]"
 
 * Leitura https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
-* Links docker http://stefanteixeira.com.br/2015/03/17/comandos-essenciais-docker-monitoramento-containers/ https://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/
+* Links docker http://stefanteixeira.com.br/2015/03/17/comandos-essenciais-docker-monitoramento-containers/ https://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/ Obs. Para sair do container sem matar a sessão digitar Ctrl+P+Q. Para entrar novamente digirar docker attach + containerId
 
 #### Deep Jammer
 * blog https://medium.com/towards-data-science/can-a-deep-neural-network-compose-music-f89b6ba4978d
