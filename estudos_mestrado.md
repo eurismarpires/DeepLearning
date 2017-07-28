@@ -4,8 +4,9 @@
 * Leitura do projeto final Deep-Rock https://cs224d.stanford.edu/reports/Ilan.pdf
 ## 26/07/2017
 * Teste do Melody_RNN do projeto magenta: https://github.com/tensorflow/magenta/blob/master/magenta/models/melody_rnn/README.md Para isso foi criado as variáveis de ambiente abaixo e depois seguiu-se o tutorial.
-####
+####        
         $ docker pull tensorflow/magenta #download o docker do projeto magenta
+        $ docker run -it tensorflow/magenta bash
         $ export BUNDLE_PATH=/magenta-models/basic_rnn.mag
         $ export CONFIG=basic_rnn
         $ melody_rnn_generate \
@@ -17,6 +18,7 @@
         --primer_melody="[60]"
 
 * Leitura https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn/
+* Links docker http://stefanteixeira.com.br/2015/03/17/comandos-essenciais-docker-monitoramento-containers/ https://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/
 
 #### Deep Jammer
 * blog https://medium.com/towards-data-science/can-a-deep-neural-network-compose-music-f89b6ba4978d
