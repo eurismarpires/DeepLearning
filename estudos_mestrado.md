@@ -4,7 +4,7 @@
 * [Estudo R](http://www.leg.ufpr.br/~paulojus/embrapa/Rembrapa/Rembrapa.html#Rembrapase6.html)
 * Debug [GAN](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I)
 * Debug [SeqGAN](https://github.com/LantaoYu/SeqGAN)
-* Estudo Tensorflow (Getting Started With TensorFlow)[https://www.tensorflow.org/get_started/get_started] e (MNIST For ML Beginners)[https://www.tensorflow.org/get_started/mnist/beginners]
+* Estudo Tensorflow [Getting Started With TensorFlow](https://www.tensorflow.org/get_started/get_started) e [MNIST For ML Beginners](https://www.tensorflow.org/get_started/mnist/beginners)
 ## 27/07/2017
 * Leitura do projeto final Deep-Rock https://cs224d.stanford.edu/reports/Ilan.pdf
 ## 26/07/2017
