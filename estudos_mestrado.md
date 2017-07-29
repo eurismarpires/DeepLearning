@@ -1,15 +1,15 @@
 ## 29/07/2017
 * Estudo do código [sequence_gan](https://github.com/ofirnachum/sequence_gan)
 * Estudo do código [Modelling-and-Generating-Sequences-of-Polyphonic-Music-With-RNN-RBM](https://github.com/SiddharthTiwari/Modelling-and-Generating-Sequences-of-Polyphonic-Music-With-RNN-RBM)
-* Estudo do código[Music Generator Demo](https://github.com/llSourcell/Music_Generator_Demo). É necessário instalar os pacotes:
+* Estudo do código[Music Generator Demo](https://github.com/llSourcell/Music_Generator_Demo). É necessário instalar os pacotes no python2:
         
-        + Numpy == 1.11.0 
-        + tensorflow == 0.12.0 
-        + pandas == 0.19.2 
-        + msgpack-python == 0.4.8 
-        + glob2 == 0.5 
-        + tqdm == 4.11.2 
-        + python-midi == 0.2. 4
+        $ pip install Numpy==1.11.0 
+        $ pip install tensorflow==0.12.0 
+        $ pip install pandas==0.19.2 
+        $ pip install msgpack-python==0.4.8 
+        $ pip install glob2==0.5 
+        $ pip install tqdm==4.11.2 
+        $ pip install python-midi==0.2. 4
 
 
 
