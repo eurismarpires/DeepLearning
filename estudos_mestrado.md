@@ -2,6 +2,7 @@
 * Leitura do artigo [Deep Learning for Music](https://arxiv.org/pdf/1705.10843.pdf)
 * Leitura do artigo [Objective-Reinforced Generative Adversarial
 Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.04930.pdf) [Código](https://github.com/gablg1/ORGAN)
+        
         $ conda create -c rdkit -n organ rdkit python=2.7
         $ source activate organ
         $ pip install tqdm
