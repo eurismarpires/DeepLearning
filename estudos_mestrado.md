@@ -1,5 +1,7 @@
 ## 28/07/2017
-* Leitura do artigo [Deep Learning for Music](https://arxiv.org/pdf/1606.04930.pdf)
+* Leitura do artigo [Deep Learning for Music](https://arxiv.org/pdf/1705.10843.pdf)
+* Leitura do artigo [Objective-Reinforced Generative Adversarial
+Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.04930.pdf)
 * Estudo de [função de verossimilhança](http://www.leg.ufpr.br/~paulojus/embrapa/Rembrapa/Rembrapase16.html) [Código](https://github.com/eurismarpires/DeepLearning/blob/master/fun%C3%A7%C3%A3o%2Bde%2Bverossimilhan%C3%A7a.ipynb)
 * [Estudo R](http://www.leg.ufpr.br/~paulojus/embrapa/Rembrapa/Rembrapa.html#Rembrapase6.html)
 * Debug [GAN](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I)
