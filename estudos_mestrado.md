@@ -1,6 +1,18 @@
 ## 29/07/2017
 * Estudo do código [sequence_gan](https://github.com/ofirnachum/sequence_gan)
 * Estudo do código [Modelling-and-Generating-Sequences-of-Polyphonic-Music-With-RNN-RBM](https://github.com/SiddharthTiwari/Modelling-and-Generating-Sequences-of-Polyphonic-Music-With-RNN-RBM)
+* Estudo do código[Music Generator Demo](https://github.com/llSourcell/Music_Generator_Demo). É necessário instalar os pacotes:
+        
+        + Numpy == 1.11.0 
+        + tensorflow == 0.12.0 
+        + pandas == 0.19.2 
+        + msgpack-python == 0.4.8 
+        + glob2 == 0.5 
+        + tqdm == 4.11.2 
+        + python-midi == 0.2. 4
+
+
+
 * Leitura [Aprendizado por reforço](http://edirlei.3dgb.com.br/aulas/ia_2011_2/IA_Aula_19_Aprendizado_Por_Reforco.pdf)
 * Estudo [Set em Python](https://www.programiz.com/python-programming/set)
 ## 28/07/2017
