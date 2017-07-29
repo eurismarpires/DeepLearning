@@ -51,6 +51,7 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 ## Links Importantes
 * https://libraries.io/
 * https://magenta.tensorflow.org/2016/12/16/nips-demo/
+* [programiz.com](https://www.programiz.com/)
 
 ## Comandos Úteis
 
