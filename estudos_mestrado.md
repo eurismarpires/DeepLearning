@@ -1,6 +1,6 @@
 ## 29/07/2017
 * Estudo do código [sequence_gan](https://github.com/ofirnachum/sequence_gan)
-* Estudo [Aprendizado por reforço](http://edirlei.3dgb.com.br/aulas/ia_2011_2/IA_Aula_19_Aprendizado_Por_Reforco.pdf)
+* Leitura [Aprendizado por reforço](http://edirlei.3dgb.com.br/aulas/ia_2011_2/IA_Aula_19_Aprendizado_Por_Reforco.pdf)
 ## 28/07/2017
 * Leitura do artigo [Deep Learning for Music](https://arxiv.org/pdf/1705.10843.pdf)
 * Leitura do artigo [Objective-Reinforced Generative Adversarial
