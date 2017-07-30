@@ -10,7 +10,7 @@
         $ pip install glob2==0.5 
         $ pip install tqdm==4.11.2 
         $ pip install python-midi==0.2.4
-* Estudo do código [How-to-Generate-Music-Demo](https://github.com/llSourcell/How-to-Generate-Music-Demo) Para funcionar tem que remover a parte fixa mode='major' do arquivo preprocess.py
+* Estudo do código [How-to-Generate-Music-Demo](https://github.com/llSourcell/How-to-Generate-Music-Demo) Para funcionar tem que remover a parte fixa mode='major' do arquivo preprocess.py [Video](https://www.youtube.com/watch?v=4DMm5Lhey1U)
 
 * Leitura [Aprendizado por reforço](http://edirlei.3dgb.com.br/aulas/ia_2011_2/IA_Aula_19_Aprendizado_Por_Reforco.pdf)
 * Estudo [Set em Python](https://www.programiz.com/python-programming/set)
