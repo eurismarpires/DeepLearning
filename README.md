@@ -85,6 +85,7 @@ with Recurrent Neural Networks http://www.jmlr.org/proceedings/papers/v32/graves
 - Exploring LSTMs - http://blog.echen.me/2017/05/30/exploring-lstms/
 - Vários materiais de LSTM - http://www.cs.toronto.edu/~graves/
 - https://stackoverflow.com/questions/43034960/many-to-one-and-many-to-many-lstm-examples-in-keras
+- [MASKED BIDIRECTIONAL LSTMS WITH KERAS](http://dirko.github.io/Bidirectional-LSTMs-with-Keras/)
 
 
 #### LSTM and Music Composition
