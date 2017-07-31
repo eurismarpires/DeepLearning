@@ -2,7 +2,8 @@
 * Pesquisa sobre as bibliotecas [music21](http://web.mit.edu/music21/), [unroll](https://github.com/Zulko/unroll) e [lilypond](http://lilypond.org/doc/v2.18/Documentation/learning/tutorial)
 * [Leitura sobre transposição para ser utilizada em DeepLearning](http://nickkellyresearch.com/python-script-transpose-midi-files-c-minor/)
 * [Leitura - Metis Final Project Music Composition](http://blog.naoya.io/metis-final-project-music-composition-with-lstms/)
-* [Leitura parcial do projeto musicNet](https://cm-gitlab.stanford.edu/tsob/musicNet/)
+* [Leitura parcial do projeto musicNet](https://cm-gitlab.stanford.edu/tsob/musicNet/) 
+* [Para ver depois - music-rnn](https://github.com/jamong/music-rnn)
 ## 29/07/2017
 * Estudo do código [sequence_gan](https://github.com/ofirnachum/sequence_gan)
 * Estudo do código [Modelling-and-Generating-Sequences-of-Polyphonic-Music-With-RNN-RBM](https://github.com/SiddharthTiwari/Modelling-and-Generating-Sequences-of-Polyphonic-Music-With-RNN-RBM)
