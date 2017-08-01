@@ -1,4 +1,4 @@
-## 30/07/2017
+## 31/07/2017
 
 * [Estudo do código - music-rnn](https://github.com/jamong/music-rnn)
 
