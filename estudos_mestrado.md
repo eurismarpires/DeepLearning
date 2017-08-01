@@ -2,6 +2,7 @@
 
 * [Estudo do código - music-rnn](https://github.com/jamong/music-rnn)
 * [Quando e Como usar TimeDistributedDense](https://github.com/fchollet/keras/issues/1029)
+* [TimeDistributed Keras](https://keras.io/layers/wrappers/)
 
 ## 30/07/2017
 * Pesquisa sobre as bibliotecas [music21](http://web.mit.edu/music21/), [unroll](https://github.com/Zulko/unroll) e [lilypond](http://lilypond.org/doc/v2.18/Documentation/learning/tutorial)
