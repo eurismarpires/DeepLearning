@@ -1,5 +1,6 @@
 ## 01/08/2017 
 * Leitura do artigo [Text Generation using Generative Adversarial Training](https://web.stanford.edu/class/cs224n/reports/2761133.pdf)
+* Estudo do código [TextGAN](https://github.com/AustinStoneProjects/TextGAN)
 ## 31/07/2017
 
 * [Estudo do código - music-rnn](https://github.com/jamong/music-rnn)
