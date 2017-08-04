@@ -1,3 +1,7 @@
+## 03/08/2017
+* [Estudo GAN Deep Learning Brasil](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I) [1](https://github.com/eurismarpires/exercicios_python/blob/master/gan.ipynb) [2](https://github.com/eurismarpires/exercicios_python/blob/master/gan_nova.ipynb)
+* [TensorFlow Tutorial](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+* [Variable sharing in Tensorflow](https://jasdeep06.github.io/posts/variable-sharing-in-tensorflow/)
 ## 02/08/2017
 * Estudo do código [GAN-Sandbox](https://github.com/wayaai/GAN-Sandbox) em Keras/Tensorflow
 ## 01/08/2017 
