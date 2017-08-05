@@ -1,5 +1,5 @@
 ## 04/08/2017
-* [Estudo GAN Deep Learning Brasil](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I) [1]
+* [Estudo GAN Deep Learning Brasil no Jupyter Notebook](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I)
 
 ## 03/08/2017
 * [Estudo GAN Deep Learning Brasil](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I) [1](https://github.com/eurismarpires/exercicios_python/blob/master/gan.ipynb) [2](https://github.com/eurismarpires/exercicios_python/blob/master/gan_nova.ipynb)
