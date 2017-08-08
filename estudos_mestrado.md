@@ -1,4 +1,7 @@
-## 04/08/2017
+## 07/08/2017 
+* [INTUITIVE ANALYSIS, CREATION AND MANIPULATION OF MIDI
+DATA WITH pretty_midi](http://colinraffel.com/publications/ismir2014intuitive.pdf) [pretty_midi](https://github.com/craffel/pretty-midi)
+## 04/08/2017 - 06/08/2017
 * [Estudo GAN Deep Learning Brasil no Jupyter Notebook](https://github.com/deeplearningbrasil/gan-generative-adversarial-networks-parte-I)
 
 ## 03/08/2017
