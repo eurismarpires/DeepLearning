@@ -1,5 +1,6 @@
 ## 08/08/2017
 * Estudando como transformar MIDI em rolo de Piano. [midiToNoteStateMatrix](https://github.com/llSourcell/Music_Generator_Demo). Não quer funcionar para arquivos MIDI para violão. Mas para os datasets do projeto de exemplo funciona. É interessante a representaço onde a metade da matriz contém os bits um's para indicar quando a nota foi tocada.
+* Uma forma interessante de representar um [rolo de piano](https://stackoverflow.com/questions/44661688/converting-piano-roll-to-midi-in-music21)
 
 ## 07/08/2017 
 * Estudo da biblioteca [pretty_midi](https://github.com/craffel/pretty-midi) Paper [INTUITIVE ANALYSIS, CREATION AND MANIPULATION OF MIDI
