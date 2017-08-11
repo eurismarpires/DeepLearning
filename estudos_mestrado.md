@@ -1,4 +1,10 @@
 ## 09/08/2017
+* Estudos da biblioteca Music21
+* Consegui fazer funcionar o áudio no Musescore instalando o gawk:
+
+        $ sudo apt-get install gawk
+                
+## 09/08/2017
 * Leitura [5 Genius Python Deep Learning Libraries](https://elitedatascience.com/python-deep-learning-libraries)
 ## 08/08/2017
 * Estudando como transformar MIDI em rolo de Piano. [midiToNoteStateMatrix](https://github.com/llSourcell/Music_Generator_Demo). Não quer funcionar para arquivos MIDI para violão. Mas para os datasets do projeto de exemplo funciona. É interessante a representaço onde a metade da matriz contém os bits um's para indicar quando a nota foi tocada.
