@@ -1,5 +1,5 @@
 ## 10/08/2017
-* Estudos da biblioteca [Music21 e Pyknon](https://github.com/eurismarpires/exercicios_python/blob/master/MidiMusic21Pyknon.ipynb) baseado no [tutorial](https://blog.ouseful.info/2016/09/13/making-music-and-embedding-sounds-in-jupyter-notebooks/)
+* Estudos da biblioteca [Music21 e Pyknon](https://github.com/eurismarpires/exercicios_python/blob/master/MidiMusic21Pyknon.ipynb) baseados no [tutorial](https://blog.ouseful.info/2016/09/13/making-music-and-embedding-sounds-in-jupyter-notebooks/)
 * Consegui fazer funcionar o áudio no Musescore instalando o gawk:
 
         $ sudo apt-get install gawk
