@@ -1,4 +1,4 @@
-## 09/08/2017
+## 10/08/2017
 * Estudos da biblioteca Music21
 * Consegui fazer funcionar o áudio no Musescore instalando o gawk:
 
