@@ -1,5 +1,5 @@
 ## 10/08/2017
-* Estudos da biblioteca Music21
+* Estudos da biblioteca [Music21 e Pyknon](https://github.com/eurismarpires/exercicios_python/blob/master/MidiMusic21Pyknon.ipynb)
 * Consegui fazer funcionar o áudio no Musescore instalando o gawk:
 
         $ sudo apt-get install gawk
