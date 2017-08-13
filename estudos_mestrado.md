@@ -1,5 +1,6 @@
 ## 11/12/2017 - 12/08/2017
 * Estudo do [código](https://github.com/naoyak/JohaNN)
+* Exemplo com [music21 mid_online_music21](https://github.com/eurismarpires/exercicios_python/blob/master/mid_online_music21.ipynb)
 
 ![](https://github.com/eurismarpires/exercicios_python/blob/master/mapeamento_johaNN.png)
 
