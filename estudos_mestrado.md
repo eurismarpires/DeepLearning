@@ -1,3 +1,8 @@
+## 11/12/2017 - 12/08/2017
+* Estudo do [código](https://github.com/naoyak/JohaNN)
+
+![](https://github.com/eurismarpires/exercicios_python/blob/master/mapeamento_johaNN.png)
+
 ## 10/08/2017
 * Estudos da biblioteca [Music21 e Pyknon](https://github.com/eurismarpires/exercicios_python/blob/master/MidiMusic21Pyknon.ipynb) baseados no [tutorial](https://blog.ouseful.info/2016/09/13/making-music-and-embedding-sounds-in-jupyter-notebooks/)
 * Consegui fazer funcionar o áudio no Musescore instalando o gawk:
