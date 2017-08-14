@@ -1,3 +1,7 @@
+## 14/08/2017
+* [The 5 Step Life-Cycle for Long Short-Term Memory Models in Keras](http://machinelearningmastery.com/5-step-life-cycle-long-short-term-memory-models-keras/)
+## 13/08/2017
+* [Vídeo aula modelos generativos - Stanford](https://www.youtube.com/watch?v=5WoItGTWV54)
 ## 11/12/2017 - 12/08/2017
 * Estudo do [código](https://github.com/naoyak/JohaNN)
 * Exemplo com [music21 mid_online_music21](https://github.com/eurismarpires/exercicios_python/blob/master/mid_online_music21.ipynb)
