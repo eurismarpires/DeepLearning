@@ -1,5 +1,6 @@
 ## 16/08/2017
 * [https://henri.io/posts/chord-classification-using-neural-networks.html](https://henri.io/posts/chord-classification-using-neural-networks.html)
+* [https://www.thisismetis.com/made-at-metis](https://www.thisismetis.com/made-at-metis)
 ## 14/08/2017 - 15/08/2017
 * [The 5 Step Life-Cycle for Long Short-Term Memory Models in Keras](http://machinelearningmastery.com/5-step-life-cycle-long-short-term-memory-models-keras/)
 * [Generative Adversarial Networks Part 2 - Implementation with Keras 2.0](http://www.rricard.me/machine/learning/generative/adversarial/networks/keras/tensorflow/2017/04/05/gans-part2.html)
