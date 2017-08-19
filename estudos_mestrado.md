@@ -1,3 +1,9 @@
+## 19/08/2017 
+* Configurar o Music21 para usar o Musescore no Windows:
+        
+        $  us = environment.UserSettings()
+        $  us['musicxmlPath']="C:\\Program Files (x86)\\MuseScore 2\\bin\\MuseScore.exe"
+        $  us["musescoreDirectPNGPath"]="C:\\Program Files (x86)\\MuseScore 2\\bin\\MuseScore.exe"
 ## 16/08/2017
 * [https://henri.io/posts/chord-classification-using-neural-networks.html](https://henri.io/posts/chord-classification-using-neural-networks.html)
 * [https://www.thisismetis.com/made-at-metis](https://www.thisismetis.com/made-at-metis)
