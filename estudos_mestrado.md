@@ -1,6 +1,7 @@
 ## 21/08/2017
 * [Modeling Musical Context with Word2vec](http://dorienherremans.com/word2vec)
-* [Projetos](http://dorienherremans.com/biography)
+* [Projetos](http://dorienherremans.com/software)
+* [Bibliografia Geração de Musicas](http://dorienherremans.com/biblio)
 ## 19/08/2017 
 * Configurar o Music21 para usar o Musescore no Windows:
         
