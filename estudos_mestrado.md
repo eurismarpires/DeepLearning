@@ -1,5 +1,6 @@
 ## 26/08/2017
 * [Programming instrumental music from scratch - Ensina o funcionamento da biblioteca Python MIDI](https://www.r-bloggers.com/programming-instrumental-music-from-scratch/) 
+* [Music Note Symbols](http://www.musiclearningworkshop.com/music-note-symbols/)
 ## 25/08/2017
 * [Deep Learning From Scratch: Theory and Implementation](http://www.deepideas.net/deep-learning-from-scratch-theory-and-implementation/)
 * [DEEP LEARNING METALLICA WITH RECURRENT NEURAL NETWORKS](http://www.mattmoocar.me/blog/tabPlayer/)
