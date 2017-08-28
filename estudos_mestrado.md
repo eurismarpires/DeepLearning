@@ -1,3 +1,5 @@
+## 28/08/2017
+* [Deep Learning for Music - https://amundtveit.com/2016/11/22/deep-learning-for-music/](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
 ## 26/08/2017
 * [Programming instrumental music from scratch - Ensina o funcionamento da biblioteca Python MIDI](https://www.r-bloggers.com/programming-instrumental-music-from-scratch/) 
 * [Music Note Symbols](http://www.musiclearningworkshop.com/music-note-symbols/)
