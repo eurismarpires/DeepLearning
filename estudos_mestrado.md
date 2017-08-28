@@ -163,7 +163,7 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 | --- | --- |---|---|
 |LSTM network for algorithmic music composition|Este é o repositório de código para o trabalho de tese de mestrado, em Composição de música algorítmica utilizando redes neuronais recorrentes (RNN)|[https://github.com/bernatfp/LSTM-Composer](https://github.com/bernatfp/LSTM-Composer)|Keras e [mido](https://github.com/olemb/mido)|
 |LSTM-RNN-Melody-Composer| Esta é a implementação de uma Rede Neural Recorrente LSTM que compõe uma melodia para uma determinada sequência de acordes.|[https://github.com/konstilackner/LSTM-RNN-Melody-Composer](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)|Keras e Mido|
-|JohaNN|2-layer LSTM music generator trained on Bach Cello Suites|[https://github.com/naoyak/JohaNN](https://github.com/naoyak/JohaNN)|Keras e music21|
+|JohaNN|2-layer LSTM music generator trained on Bach Cello Suites|[https://github.com/naoyak/JohaNN](https://github.com/naoyak/JohaNN)|Keras e [music21](http://web.mit.edu/music21/doc/about/what.html)|
 
 
 
