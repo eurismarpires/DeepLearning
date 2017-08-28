@@ -158,3 +158,8 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 #### Coisas para aprender
  * Maxima verossimilhança
  * GAN
+ 
+ | Titulo | Description |Site|
+| --- | --- |---|
+| git status | List all new or modified files ||
+| git diff | Show file differences that haven't been staged ||
