@@ -165,7 +165,7 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 |LSTM-RNN-Melody-Composer| Esta é a implementação de uma Rede Neural Recorrente LSTM que compõe uma melodia para uma determinada sequência de acordes.|[https://github.com/konstilackner/LSTM-RNN-Melody-Composer](https://github.com/konstilackner/LSTM-RNN-Melody-Composer)|Keras e Mido|
 |JohaNN|2-layer LSTM music generator trained on Bach Cello Suites|[https://github.com/naoyak/JohaNN](https://github.com/naoyak/JohaNN)|Keras e [music21](http://web.mit.edu/music21/doc/about/what.html)|
 |SCHUMANN: RECURRENT NEURAL NETWORKS COMPOSING MUSIC||[http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/](http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/)||
-|Music Language Modeling with Recurrent Neural Networks||[http://yoavz.com/music_rnn/](http://yoavz.com/music_rnn/)||
+|Music Language Modeling with Recurrent Neural Networks||(https://github.com/yoavz/music_rnn) [http://yoavz.com/music_rnn/](http://yoavz.com/music_rnn/)||
 
 
 
