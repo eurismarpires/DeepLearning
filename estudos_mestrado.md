@@ -1,5 +1,5 @@
 ## 29/08/2017
-* [Vários links de projetos de música usando deep learning](https://handong1587.github.io/deep_learning/2015/10/09/fun-with-deep-learning.html)
+* [Vários links de projetos de música usando deep learning](https://handong1587.github.io/deep_learning/2015/10/09/fun-with-deep-learning.html#music)
 ## 28/08/2017
 * [Deep Learning for Music - https://amundtveit.com/2016/11/22/deep-learning-for-music/](https://amundtveit.com/2016/11/22/deep-learning-for-music/)
 ## 26/08/2017
