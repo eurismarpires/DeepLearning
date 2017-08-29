@@ -166,7 +166,11 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 |JohaNN|2-layer LSTM music generator trained on Bach Cello Suites|[https://github.com/naoyak/JohaNN](https://github.com/naoyak/JohaNN)|Keras e [music21](http://web.mit.edu/music21/doc/about/what.html)|
 |SCHUMANN: RECURRENT NEURAL NETWORKS COMPOSING MUSIC||[http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/](http://inspiratron.org/blog/2017/01/01/schumann-rnn-composing-music/)||
 |Music Language Modeling with Recurrent Neural Networks||(https://github.com/yoavz/music_rnn) [http://yoavz.com/music_rnn/](http://yoavz.com/music_rnn/)||
-
+|Neural Translation of Musical Style|O artista injeta a expressividade na nota escrita através de
+Variações de diferentes propriedades musicais, como dinâmica e tempo. |[Dissertação](http://imanmalik.com/documents/dissertation.pdf) [Blog](http://imanmalik.com/cs/2017/06/05/neural-style.html) [Código](https://github.com/imalikshake/StyleNet/)|Tensorflow
+mido
+pretty_midi
+fluidsynth|
 
 
 
