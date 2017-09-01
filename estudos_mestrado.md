@@ -1,3 +1,5 @@
+## 01/09/2017
+8 [Tutorial git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 ## 29/08/2017
 * [Vários links de projetos de música usando deep learning](https://handong1587.github.io/deep_learning/2015/10/09/fun-with-deep-learning.html#music)
 * Leitura do artigo [Song From PI A Musically Plausible Network for Pop Music Generation](http://www.cs.toronto.edu/songfrompi/)
