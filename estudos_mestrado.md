@@ -172,6 +172,9 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 |StyleNet|Neural Translation of Musical Style|[Dissertação](http://imanmalik.com/documents/dissertation.pdf) [Blog](http://imanmalik.com/cs/2017/06/05/neural-style.html) [Código](https://github.com/imalikshake/StyleNet/)|Tensorflow,mido,pretty_midi,fluidsynth|
 |Metis Final Project: Music Composition with LSTMs|a recurrent neural network utilizing Long Short-Term Memory nodes (LSTMs) to learn patterns in the Six Cello Suites by J.S. Bach|[Blog](http://blog.naoya.io/metis-final-project-music-composition-with-lstms/)||
 |neuralnetmusic|The myparser.py module turns musicxml files into training data|https://github.com/fephsun/neuralnetmusic|Keras|
+|Music Generator Demo - Siraj Raval|Overview Use TensorFlow to generate short sequences of music with a Restricted Boltzmann Machine. This is the code for Generate Music in TensorFlow on YouTube.|https://github.com/llSourcell/Music_Generator_Demo|Python midi e Tensorflow|
+
+
 
 
 
