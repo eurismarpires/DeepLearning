@@ -1,6 +1,7 @@
 ## 02/09/2017
 * [Python Cheat Sheet Basic](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-basic.pdf)
 * [Python Cheat Sheet Intermediate](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-intermediate.pdf)
+* [Pandas Cheat Sheet](https://www.dataquest.io/blog/images/cheat-sheets/pandas-cheat-sheet.pdf)
 ## 01/09/2017
 * [Tutorial git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 ## 29/08/2017
