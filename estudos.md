@@ -1,3 +1,5 @@
+## 04/09/2017
+* [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap)
 ## 02/09/2017
 * [Python Cheat Sheet Basic](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-basic.pdf)
 * [Python Cheat Sheet Intermediate](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-intermediate.pdf)
