@@ -1,6 +1,7 @@
 ## 04/09/2017
 * [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap)
 * [Encoder-Decoder Long Short-Term Memory Networks](https://machinelearningmastery.com/encoder-decoder-long-short-term-memory-networks/)
+* [Music Generation Using Rnn](http://qihqi.github.io/machine/learning/music-generation-using-rnn/)
 ## 02/09/2017
 * [Python Cheat Sheet Basic](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-basic.pdf)
 * [Python Cheat Sheet Intermediate](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-intermediate.pdf)
