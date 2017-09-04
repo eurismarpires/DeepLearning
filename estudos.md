@@ -5,6 +5,7 @@
 * [Delving deep into Generative Adversarial Networks (GANs)](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 * [https://pythonprogramming.net/machine-learning-tutorial-python-introduction/](https://pythonprogramming.net/machine-learning-tutorial-python-introduction/)
 * [How to Use an Encoder Decoder Lstm to Echo Sequences of Random Integers](https://machinelearningmastery.com/how-to-use-an-encoder-decoder-lstm-to-echo-sequences-of-random-integers/)
+* [Tutorials Keras Recurrent](http://vict0rsch.github.io/tutorials/keras/recurrent/)
 ## 02/09/2017
 * [Python Cheat Sheet Basic](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-basic.pdf)
 * [Python Cheat Sheet Intermediate](https://www.dataquest.io/blog/images/cheat-sheets/python-cheat-sheet-intermediate.pdf)
