@@ -1,3 +1,5 @@
+## 05/09/2017
+* [Embedding and Tokenizer in Keras](http://www.orbifold.net/default/2017/01/10/embedding-and-tokenizer-in-keras/)
 ## 04/09/2017
 * [Deep Learning Mindmap / Cheatsheet](https://github.com/dformoso/deeplearning-mindmap)
 * [Encoder-Decoder Long Short-Term Memory Networks](https://machinelearningmastery.com/encoder-decoder-long-short-term-memory-networks/)
