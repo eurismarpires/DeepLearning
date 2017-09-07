@@ -1,3 +1,5 @@
+## 07/09/2017
+* [Deep Learning Techniques for Music Generation - A Survey](https://arxiv.org/abs/1709.01620)
 ## 05/09/2017
 * [Embedding and Tokenizer in Keras](http://www.orbifold.net/default/2017/01/10/embedding-and-tokenizer-in-keras/)
 ## 04/09/2017
