@@ -1,5 +1,5 @@
 ## 11/09/2017
-[Backprop is very simple. Who made it Complicated?](https://github.com/Prakashvanapalli/TensorFlow/blob/master/Blogposts/Backpropogation_with_Images.ipynb)
+* [Backprop is very simple. Who made it Complicated?](https://github.com/Prakashvanapalli/TensorFlow/blob/master/Blogposts/Backpropogation_with_Images.ipynb)
 ## 07/09/2017
 * [Deep Learning Techniques for Music Generation - A Survey](https://arxiv.org/abs/1709.01620)
 ## 05/09/2017
