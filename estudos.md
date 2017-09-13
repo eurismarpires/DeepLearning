@@ -1,3 +1,5 @@
+## 13/09/2017
+* [Understanding LSTM in Tensorflow(MNIST dataset)](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
 ## 12/09/2017
 * [Generative Adversarial Networks for Beginners](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners) [Código](https://github.com/jonbruner/generative-adversarial-networks/blob/master/gan-notebook.ipynb)
 ## 11/09/2017
