@@ -1,6 +1,7 @@
 ## 18/09/2017
 * [Creating A Language Translation Model Using Sequence To Sequence Learning Approach](https://chunml.github.io/ChunML.github.io/project/Sequence-To-Sequence/)
 * [Matemática para Deep Learning](http://aima.cs.berkeley.edu/newchapa.pdf)
+* [Algebra Linear Livros](http://www.sedis.ufrn.br/bibliotecadigital/site/pdf/TICS/Alg_I_ECT_Livro_Z_WEB.pdf)(http://www.uesb.br/professor/flaulles/download/softwares/IntAlgebraLinear.pdf)
 ## 13/09/2017
 * [Understanding LSTM in Tensorflow(MNIST dataset)](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
 ## 12/09/2017
