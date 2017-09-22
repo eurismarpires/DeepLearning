@@ -1,3 +1,5 @@
+## 22/10/2017
+* [Machine Learning Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-sep-2017-c68f4b0b5e72)
 ## 21/09/2017
 * [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn)
 ## 18/09/2017
