@@ -211,6 +211,9 @@ Networks (ORGAN) for Sequence Generation Models](https://arxiv.org/pdf/1606.0493
 |Music Generator Demo - Siraj Raval|Overview Use TensorFlow to generate short sequences of music with a Restricted Boltzmann Machine. This is the code for Generate Music in TensorFlow on YouTube.|https://github.com/llSourcell/Music_Generator_Demo|Python midi e Tensorflow|
 |Music Generator Demo - Siraj Raval|This is the code for this video on Youtube by Siraj Raval as part of the the Udacity Deep Learning Nanodegree. It uses Keras & Theano, two deep learning libraries, to generate jazz music. Specifically, it builds a two-layer LSTM, learning from the given MIDI file.|https://github.com/llSourcell/How-to-Generate-Music-Demo|Keras, Theano, Music21|
 |LSTM-RNN-Melody-Composer|Esta é a implementação de uma Rede Neural Recorrente LSTM que compõe uma melodia para uma determinada sequência de acordes|https://github.com/konstilackner/LSTM-RNN-Melody-Composer|mido e Keras
+|Implementation of C-RNN-GAN.|Aplicado a geração de música|https://github.com/olofmogren/c-rnn-gan|Tensorflow
+
+
 
 
 
