@@ -1,5 +1,8 @@
 ## 08/10/2017
-* (Vanilla LSTM with numpy)[http://blog.varunajayasiri.com/numpy_lstm.html]
+* [Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
+* [Generating Random Vectors from the Multivariate Normal
+Distribution](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/ia013_2s09/material_de_apoio/gen_rand_multivar.pdf)
+
 ## 28/09/2018 Estudos GAN Udemy
 ## 22/09/2017
 * (Effective TensorFlow)[Machine Learning Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-sep-2017-c68f4b0b5e72)
