@@ -1,3 +1,6 @@
+## 08/10/2017
+* (Vanilla LSTM with numpy)[http://blog.varunajayasiri.com/numpy_lstm.html]
+## 28/09/2018 Estudos GAN Udemy
 ## 22/09/2017
 * (Effective TensorFlow)[Machine Learning Top 10 Articles For the Past Month (v.Sep 2017)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-sep-2017-c68f4b0b5e72)
 * [](https://github.com/vahidk/EffectiveTensorflow)
