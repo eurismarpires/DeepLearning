@@ -2,6 +2,7 @@
 * [Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
 * [Generating Random Vectors from the Multivariate Normal
 Distribution](ftp://ftp.dca.fee.unicamp.br/pub/docs/vonzuben/ia013_2s09/material_de_apoio/gen_rand_multivar.pdf)
+* [Normal Distribution](https://www.mathsisfun.com/data/standard-normal-distribution.html)
 
 ## 28/09/2018 Estudos GAN Udemy
 ## 22/09/2017
