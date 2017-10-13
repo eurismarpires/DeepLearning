@@ -1,3 +1,5 @@
+## 12/10/2017
+* [Redes adversarias generativas em TensorFlow](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 ## 08/10/2017
 * [Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)
 * [Generating Random Vectors from the Multivariate Normal
