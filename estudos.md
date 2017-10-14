@@ -1,3 +1,6 @@
+## 14/10/2017
+* [LSTM in numpy](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
+* [Livro pense em Python](https://penseallen.github.io/PensePython2e/)
 ## 12/10/2017
 * [Redes adversarias generativas em TensorFlow](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 ## 08/10/2017
