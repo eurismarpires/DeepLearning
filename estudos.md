@@ -1,3 +1,5 @@
+## 16/10/2017
+[Variational Autoencoder: Intuition and Implementation in Keras](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/)
 ## 14/10/2017
 * [LSTM in numpy](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
 * [Livro pense em Python](https://penseallen.github.io/PensePython2e/)
