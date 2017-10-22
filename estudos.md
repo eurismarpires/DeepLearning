@@ -1,3 +1,6 @@
+## 22/10/2017
+[Leitura do artigo Algorithmic Composition of Melodies with Deep
+Recurrent Neural Networks](https://arxiv.org/pdf/1606.07251.pdf)
 ## 16/10/2017
 [Variational Autoencoder: Intuition and Implementation in Keras](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/)
 ## 14/10/2017
