@@ -30,6 +30,16 @@
 #### TensorFlow
 - 10 minutes Practical TensorFlow Tutorial for quick learners http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
 
+- Livro: First Contact With TensorFlow
+http://jorditorres.org/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/#cap5
+
+- tutoriais tensorflow:
+https://github.com/pkmital/tensorflow_tutorials
+https://github.com/jtoy/awesome-tensorflow
+https://github.com/aymericdamien/TensorFlow-Examples
+
+
+
 #### Livros: 
 - Deep Learning Methods and Applications Li Deng and Dong Yu https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DeepLearning-NowPublishing-Vol7-SIG-039.pdf
 
