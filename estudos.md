@@ -1,3 +1,16 @@
+## 28/11/2017
+* Para fazer rodar o código https://github.com/olofmogren/c-rnn-gan só
+         com o python 2.7 e tensorflow 0.12.1 e python-midi
+         
+         
+        $ conda create -n rnn-gan python=2.7
+        $ source activate rnn_gan
+        $ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.12.1-cp27-none-linux_x86_64.whl
+        $ pip install --upgrade $TF_BINARY_URL
+        $ pip install python-midi
+        $ python rnn_gan.py --datadir datadir --traindir traindir -testdir test
+        
+
 ## 22/10/2017
 [Leitura do artigo Algorithmic Composition of Melodies with Deep
 Recurrent Neural Networks](https://arxiv.org/pdf/1606.07251.pdf)
