@@ -1,3 +1,7 @@
+## 05/12/2017
+* [The innovative approach with Generative Adversarial Networks (GAN) is to replace the human evaluator
+with an additional neural network](https://openreview.net/pdf?id=SyBPtQfAZ)
+
 ## 28/11/2017
 * Para fazer rodar o código https://github.com/olofmogren/c-rnn-gan só
          com o python 2.7 e tensorflow 0.12.1 e python-midi
