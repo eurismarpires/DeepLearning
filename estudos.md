@@ -2,10 +2,12 @@
 * [MIDI NET](https://arxiv.org/abs/1703.10847)
 * [MUSEGAN: DEMONSTRATION OF A CONVOLUTIONAL GAN BASED
 MODEL FOR GENERATING MULTI-TRACK PIANO-ROLLS](https://ismir2017.smcnus.org/lbds/Dong2017.pdf)
+* [Tutorial Pretty-Midi](https://github.com/craffel/pretty-midi/blob/master/Tutorial.ipynb)
+
 ## 05/12/2017
 * [The innovative approach with Generative Adversarial Networks (GAN) is to replace the human evaluator
 with an additional neural network](https://openreview.net/pdf?id=SyBPtQfAZ)
-* [Tutorial Pretty-Midi](https://github.com/craffel/pretty-midi/blob/master/Tutorial.ipynb)
+
 
 ## 28/11/2017
 * Para fazer rodar o código https://github.com/olofmogren/c-rnn-gan só
