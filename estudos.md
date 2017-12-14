@@ -1,3 +1,7 @@
+## 13/12/2017
+* [https://arxiv.org/abs/1703.10847](MIDI NET)
+* [https://ismir2017.smcnus.org/lbds/Dong2017.pdf](MUSEGAN: DEMONSTRATION OF A CONVOLUTIONAL GAN BASED
+MODEL FOR GENERATING MULTI-TRACK PIANO-ROLLS)
 ## 05/12/2017
 * [The innovative approach with Generative Adversarial Networks (GAN) is to replace the human evaluator
 with an additional neural network](https://openreview.net/pdf?id=SyBPtQfAZ)
