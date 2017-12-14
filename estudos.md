@@ -5,6 +5,7 @@ MODEL FOR GENERATING MULTI-TRACK PIANO-ROLLS](https://ismir2017.smcnus.org/lbds/
 ## 05/12/2017
 * [The innovative approach with Generative Adversarial Networks (GAN) is to replace the human evaluator
 with an additional neural network](https://openreview.net/pdf?id=SyBPtQfAZ)
+* [Tutorial Pretty-Midi](https://github.com/craffel/pretty-midi/blob/master/Tutorial.ipynb)
 
 ## 28/11/2017
 * Para fazer rodar o código https://github.com/olofmogren/c-rnn-gan só
