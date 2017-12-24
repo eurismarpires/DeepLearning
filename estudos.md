@@ -1,3 +1,5 @@
+## 24/12/2017
+* [Gan com Tensorflow](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 ## 13/12/2017
 * [MIDI NET](https://arxiv.org/abs/1703.10847)
 * [MUSEGAN: DEMONSTRATION OF A CONVOLUTIONAL GAN BASED
