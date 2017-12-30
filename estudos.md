@@ -1,3 +1,9 @@
+## 30/12/2017
+# saber o caminho onde o python está instalado
+>>> import os
+>>> import sys
+>>> os.path.dirname(sys.executable)
+
 ## 24/12/2017
 * [Gan com Tensorflow](https://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/)
 ## 13/12/2017
