@@ -1,3 +1,15 @@
+## 03/01/2018
+Para rodar o projeto  https://github.com/llSourcell/Music_Generator_Demo além do tensorflow deve instalar tdm e o python-midi
+      $ pip install https://pypi.python.org/packages/71/3c/341b4fa23cb3abc335207dba057c790f3bb329f6757e1fcd5d347bcf8308/tqdm-4.19.5-py2.py3-none-any.whl#md5=99fe93af82488226c1afadfaec0e1498
+      
+      $ # testei no python3 e deu certo
+      $ git clone https://github.com/louisabraham/python3-midi.git
+      $ #dentro do diretório clonado rodar o comando
+      $ python setup.py install
+
+
+
+
 ## 30/12/2017
 # saber o caminho onde o python está instalado
       $ import os
