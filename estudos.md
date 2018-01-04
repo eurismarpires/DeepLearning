@@ -1,5 +1,5 @@
 ## 04/01/2018
-# [MIDINET: A CONVOLUTIONAL GENERATIVE ADVERSARIAL
+
 NETWORK FOR SYMBOLIC-DOMAIN MUSIC GENERATION](https://arxiv.org/pdf/1703.10847.pdf) [Código](https://github.com/RichardYang40148/MidiNet)
 
 
