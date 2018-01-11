@@ -1,3 +1,7 @@
+## 10/01/2018 
+
+Depois de ter instalado o Cuda 9 (errado porque o tensorflow ainda nao funciona com essa versao). Deu muito trabalho para conseguir remover esta e instalar o Cuda 8. O que funcionou foi a dica desse [site](http://dhaneshr.net/2016/11/09/upgrading-to-cuda-8-0-on-ubuntu-16-04/).
+
 ## 04/01/2018
 
 NETWORK FOR SYMBOLIC-DOMAIN MUSIC GENERATION](https://arxiv.org/pdf/1703.10847.pdf) [Código](https://github.com/RichardYang40148/MidiNet)
