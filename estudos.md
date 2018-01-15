@@ -1,3 +1,7 @@
+## 15/01/2018
+
+[Filtro convolucional](http://setosa.io/ev/image-kernels/)
+
 ## 10/01/2018 
 
 Depois de ter instalado o Cuda 9 (errado porque o tensorflow ainda nao funciona com essa versao). Deu muito trabalho para conseguir remover esta e instalar o Cuda 8. O que funcionou foi a dica desse [site](http://dhaneshr.net/2016/11/09/upgrading-to-cuda-8-0-on-ubuntu-16-04/).
