@@ -1,3 +1,6 @@
+## 07/02/2018
+[Text Generation using Generative Adversarial Networks (GAN) - Core challenges](https://www.linkedin.com/pulse/text-generation-using-generative-adversarial-networks-p-n/)
+
 ## 15/01/2018
 
 [Filtro convolucional](http://setosa.io/ev/image-kernels/)
