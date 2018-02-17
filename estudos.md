@@ -1,3 +1,11 @@
+## 17/02/2018
+[Resolver o problema do Kernel não aparecer no jupyter notebook](https://github.com/jupyter/jupyter/issues/245)
+
+      source activate myenv
+      python -m ipykernel install --user --name myenv --display-name "Python (myenv)"
+      source activate other-env
+      python -m ipykernel install --user --name other-env --display-name "Python (other-env)"
+
 ## 07/02/2018
 [Text Generation using Generative Adversarial Networks (GAN) - Core challenges](https://www.linkedin.com/pulse/text-generation-using-generative-adversarial-networks-p-n/)
 
