@@ -1,5 +1,5 @@
 ## 19/02/2018
-[Ótimo artigo sobre Multi-Label Classification](Guide To Multi-Class Multi-Label Classification With Neural Networks In Python)
+[Ótimo artigo sobre Multi-Label Classification - Guide To Multi-Class Multi-Label Classification With Neural Networks In Python](https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/)
 ## 17/02/2018
 [Resolver o problema do Kernel não aparecer no jupyter notebook](https://github.com/jupyter/jupyter/issues/245)
 
