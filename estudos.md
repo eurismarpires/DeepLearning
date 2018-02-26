@@ -1,5 +1,6 @@
 ## 26/02/2018
 [Excelentes materiais de estudos de Machine Learning](https://matheusfacure.github.io/tutoriais/)
+
 [Tutorial GAN](https://github.com/matheusfacure/Tutoriais-de-AM/blob/master/Redes%20Neurais%20Artificiais/GAN_MNIST.ipynb)
 ## 20/02/2018
 [Tutorial Keras](http://cv-tricks.com/tensorflow-tutorial/keras/)
