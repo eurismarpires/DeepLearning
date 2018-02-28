@@ -1,4 +1,6 @@
 ## 26/02/2018
+[Vários artigos - Music Generation With DL](https://github.com/umbrellabeach/music-generation-with-DL)
+
 [Excelentes materiais de estudos de Machine Learning](https://matheusfacure.github.io/tutoriais/)
 
 [Tutorial GAN](https://github.com/matheusfacure/Tutoriais-de-AM/blob/master/Redes%20Neurais%20Artificiais/GAN_MNIST.ipynb)
