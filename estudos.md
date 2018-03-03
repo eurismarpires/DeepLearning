@@ -1,3 +1,18 @@
+## 26/02/2018 
+
+#### Configuração music21
+
+``` 
+us = environment.UserSettings()
+us.getSettingsPath()
+'/home/usuario/.music21rc'
+us['musicxmlPath']='/usr/bin/musescore'
+us['musescoreDirectPNGPath']='/usr/bin/musescore'
+```
+
+
+
+
 ## 26/02/2018
 [Vários artigos - Music Generation With DL](https://github.com/umbrellabeach/music-generation-with-DL)
 
