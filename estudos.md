@@ -1,6 +1,10 @@
-## 26/02/2018 
+## 07/03/2018 
+[Deep Learning for Music (DL4M)](https://github.com/ybayle/awesome-deep-learning-music)
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-#### Configuração music21
+## 05/03/2018 
+
+#### Configuração music21 
 
 ``` 
 us = environment.UserSettings()
