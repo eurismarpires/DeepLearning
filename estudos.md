@@ -2,6 +2,10 @@
 
 DeepJazz Coursera instalar módulo [qa](https://github.com/bickfordb/qa)
 
+instalar também grammar 
+
+      pip install anovelmous_grammar
+
 ## 09/03/2018
 [Python online sem precisar de instalar - repl.it](https://repl.it/repls/MelodicWhoppingPhases)
 
