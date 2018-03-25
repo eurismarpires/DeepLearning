@@ -12,6 +12,17 @@ $ nvidia-smi
 ```
 [Mais informações](https://medium.com/@srini.x/beginners-guide-to-setting-up-a-tensorflow-deep-learning-environment-in-ubuntu-16-04-2-e31164e3d638)
 
+
+problemas com a gpu:
+
+ImportError: libcublas.so.9.0: cannot open shared object file: No such file or directory
+
+isso é porque o tensorflow 1.5 acima não funciona no CUDA 8.0. Para resolver isso instale a verso 1.4
+
+```console
+$ pip install --upgrade tensorflow-gpu==1.4
+```
+
 ## 23/03/2018
 [midi melodies](http://en.midimelody.ru/category/midi-melodies)
 [midis](http://antaresmidis.com.br/heitor_villa_lobos.html)
