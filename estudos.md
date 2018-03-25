@@ -5,6 +5,12 @@ Teste GPU
 from tensorflow.python.client import device_lib
 print(device_lib.list_local_devices())
 ```
+Verificar GPU
+```console
+$ nvcc --version
+$ nvidia-smi
+```
+[Mais informações](https://medium.com/@srini.x/beginners-guide-to-setting-up-a-tensorflow-deep-learning-environment-in-ubuntu-16-04-2-e31164e3d638)
 
 ## 23/03/2018
 [midi melodies](http://en.midimelody.ru/category/midi-melodies)
