@@ -1,3 +1,11 @@
+## 25/03/2018
+Teste GPU
+
+```python
+from tensorflow.python.client import device_lib
+print(device_lib.list_local_devices())
+```
+
 ## 23/03/2018
 [midi melodies](http://en.midimelody.ru/category/midi-melodies)
 [midis](http://antaresmidis.com.br/heitor_villa_lobos.html)
