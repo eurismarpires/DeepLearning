@@ -1,3 +1,6 @@
+## 01/04/2018
+Montem uma GAN usando LSTM mas por enquanto nao funcionou. Baseado [nesta](https://github.com/eriklindernoren/Keras-GAN/blob/master/gan/gan.py)
+
 ## 25/03/2018
 Teste GPU
 
