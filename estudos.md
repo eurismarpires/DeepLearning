@@ -1,7 +1,7 @@
 ## 10/04/2018
 
  ### Materiais em português
- 
+* [Reconhecimento de escrita manual com Redes Neurais Convolucionais](https://blog.luisfred.com.br/reconhecimento-de-escrita-manual-com-redes-neurais-convolucionais/)
 * [Aprendizado de Máquina](https://folivetti.github.io/courses/AprendizadoMaquina/)
 * [http://www.dobitaobyte.com.br/primeiros-passos-com-tensorflow-e-minhas-anotacoes/](http://www.dobitaobyte.com.br/primeiros-passos-com-tensorflow-e-minhas-anotacoes/)
 * [Redes Neurais Artificiais](https://folivetti.github.io/courses/AprendizadoMaquina/PDF/Aula10.pdf)
