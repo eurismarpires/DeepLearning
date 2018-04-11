@@ -8,6 +8,8 @@
 * [Redes Neurais Artificiais](https://folivetti.github.io/courses/AprendizadoMaquina/PDF/Aula10.pdf)
 * [Como visualizar um modelo de rede neural de aprendizado profundo em Keras](https://icrowdpt.com/2017/12/13/como-visualizar-um-modelo-de-rede-neural-de-aprendizado-profundo-em-keras/)
 * [Redes Neurais com Keras](http://www.dobitaobyte.com.br/rede-neural-com-keras-mais-anotacoes/)
+* [APLICAÇÃO DE REDES NEURAIS GERADORAS ADVERSÁRIAS
+PARA COLORIZAÇÃO DE IMAGENS EM PRETO E BRANCO](http://monografias.poli.ufrj.br/monografias/monopoli10020220.pdf)
 
 ## 01/04/2018
 Montem uma GAN usando LSTM mas por enquanto nao funcionou. Baseado [nesta](https://github.com/eriklindernoren/Keras-GAN/blob/master/gan/gan.py)
