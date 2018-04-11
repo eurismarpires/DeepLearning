@@ -2,6 +2,7 @@
 
  ### Materiais em português
  
+* [Aprendizado de Máquina](https://folivetti.github.io/courses/AprendizadoMaquina/)
 * [http://www.dobitaobyte.com.br/primeiros-passos-com-tensorflow-e-minhas-anotacoes/](http://www.dobitaobyte.com.br/primeiros-passos-com-tensorflow-e-minhas-anotacoes/)
 * [Redes Neurais Artificiais](https://folivetti.github.io/courses/AprendizadoMaquina/PDF/Aula10.pdf)
 * [Como visualizar um modelo de rede neural de aprendizado profundo em Keras](https://icrowdpt.com/2017/12/13/como-visualizar-um-modelo-de-rede-neural-de-aprendizado-profundo-em-keras/)
