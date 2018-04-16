@@ -1,3 +1,5 @@
+## 15/04/2018
+* [Data Science & Artificial Intelligence](https://chrisalbon.com/)
 ## 10/04/2018
 
  ### Materiais em português
