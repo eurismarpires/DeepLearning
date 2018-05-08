@@ -1,3 +1,5 @@
+## 08/05/2018
+* [Awesome-deep-learning-music Links para vários papers e códigos](https://github.com/ybayle/awesome-deep-learning-music)
 ## 15/04/2018
 * [Data Science & Artificial Intelligence](https://chrisalbon.com/)
 ## 10/04/2018
