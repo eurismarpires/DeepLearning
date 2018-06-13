@@ -1,3 +1,5 @@
+## 13/06/2018
+* [Tutorial muito bom em Keras](http://cv-tricks.com/tensorflow-tutorial/keras/)
 ## 08/05/2018
 * [Awesome-deep-learning-music Links para vários papers e códigos](https://github.com/ybayle/awesome-deep-learning-music)
 ## 15/04/2018
