@@ -1,6 +1,8 @@
 ## 14/06/2018
 * [How to choose Last-layer activation and loss function](https://www.dlology.com/blog/how-to-choose-last-layer-activation-and-loss-function/)
-[How to do multi-class multi-label classification for news categories](https://www.dlology.com/blog/how-to-do-multi-class-multi-label-classification-for-news-categories/)
+
+* [How to do multi-class multi-label classification for news categories](https://www.dlology.com/blog/how-to-do-multi-class-multi-label-classification-for-news-categories/)
+
 ## 13/06/2018
 * [Tutorial muito bom em Keras](http://cv-tricks.com/tensorflow-tutorial/keras/)
 ## 08/05/2018
