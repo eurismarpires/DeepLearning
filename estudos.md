@@ -1,3 +1,6 @@
+## 19/06/2018
+* [Deep Learning Techniques for Music Generation a Survey](https://arxiv.org/pdf/1709.01620.pdf)
+* [Machine-Learning for Symbolic Music Generation](http://www-desir.lip6.fr/~briot/documents/deep-learning-music-generation-tutorial-ismir-2017.pdf)
 ## 14/06/2018
 * [How to choose Last-layer activation and loss function](https://www.dlology.com/blog/how-to-choose-last-layer-activation-and-loss-function/)
 
