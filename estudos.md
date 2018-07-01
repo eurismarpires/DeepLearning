@@ -1,3 +1,9 @@
+## 30/06/2018
+
+Nothing makes you feel stupid quite like reading a scientific journal article.
+* [How to read a scientific paper](http://www.sciencemag.org/careers/2016/01/how-read-scientific-paper)
+* [Getting started with reading Deep Learning Research papers: The Why and the How](https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0)
+
 ## 19/06/2018
 * [Deep Learning Techniques for Music Generation a Survey](https://arxiv.org/pdf/1709.01620.pdf)
 * [Machine-Learning for Symbolic Music Generation](http://www-desir.lip6.fr/~briot/documents/deep-learning-music-generation-tutorial-ismir-2017.pdf)
