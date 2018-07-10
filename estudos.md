@@ -1,5 +1,7 @@
 ## Data Sets
-[https://composing.ai/dataset](https://composing.ai/dataset)
+
+* [https://composing.ai/dataset](https://composing.ai/dataset)
+* [Lakh MIDI Dataset Tutorial](http://nbviewer.jupyter.org/github/craffel/midi-dataset/blob/master/Tutorial.ipynb)
 
 ## 10/07/2018
 
