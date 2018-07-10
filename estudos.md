@@ -1,6 +1,9 @@
 ## Data Sets
 [https://composing.ai/dataset](https://composing.ai/dataset)
 
+## 10/07/2018
+
+* [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 
 ## 30/06/2018
 
