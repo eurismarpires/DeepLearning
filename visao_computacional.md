@@ -6,4 +6,5 @@
 ## Tutoriais
 * [Deep Learning based Human Pose Estimation using OpenCV](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
 * [Exploring Artificial Intelligence & What it Means to be Human](https://becominghuman.ai/)
+* [5 Roles of Artificial Intelligence in Business](https://becominghuman.ai/5-roles-of-artificial-intelligence-in-business-9102f56853df)
 
