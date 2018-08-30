@@ -1,3 +1,6 @@
+## Currículo Matemática para DeepLearning
+ * [http://leiluoray.com/2018/08/29/Deep-Learning-Math/](http://leiluoray.com/2018/08/29/Deep-Learning-Math/)
+
 ## Data Sets
 
 * [https://composing.ai/dataset](https://composing.ai/dataset)
