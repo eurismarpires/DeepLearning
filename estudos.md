@@ -1,3 +1,68 @@
+## Roadmaps and Important links
+
+To learn languages based on projects.
+Github: https://github.com/tuvtran/project-based-learning
+
+Python Machine Learning Book
+Github: https://github.com/rasbt/python-machine-learning-book
+
+Coding Practice and Algorithms
+Github: https://github.com/jwasham/coding-interview-university
+
+What every programmer should know
+Github: https://github.com/mtdvio/every-programmer-should-know
+
+Awesome public datasets
+Github: https://github.com/awesomedata/awesome-public-datasets
+
+Awesome Machine Learning
+Github: https://github.com/josephmisiti/awesome-machine-learning
+
+Awesome Deep Vision
+Github: https://github.com/kjw0612/awesome-deep-vision
+
+Awesome tensorflow
+Github: https://github.com/jtoy/awesome-tensorflow
+
+Awesome Project Ideas
+Github: https://github.com/NirantK/awesome-project-ideas
+
+Awesome NLP
+Github: https://github.com/keon/awesome-nlp
+
+Best of Jupyter
+Github: https://github.com/NirantK/best-of-jupyter
+
+Deep Learning paper reading roadmap
+Github: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+Paper to Code
+Github: https://github.com/zziz/pwc
+
+Reinforcement Learning
+Github: https://github.com/dennybritz/reinforcement-learning
+
+Google dataset search
+Link: https://t.co/iXFwNCDaUN
+
+Best Practices for ML Engineering
+Link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+
+List of Tutorials - Medium Article
+Link: https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
+
+Awesome list of people and blogs to follow to keep yourself updated in the field
+Link: https://medium.com/@alexrachnog/ultimate-following-list-to-keep-updated-in-artificial-intelligence-32776ffcd079
+
+Google's guide to Machine Learning
+Link: https://techdevguide.withgoogle.com/paths/machine-learning/
+
+
+
+
+
+
+
 ## Currículo Matemática para DeepLearning
  * [http://leiluoray.com/2018/08/29/Deep-Learning-Math/](http://leiluoray.com/2018/08/29/Deep-Learning-Math/)
 
